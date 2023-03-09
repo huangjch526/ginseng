@@ -17,42 +17,54 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a M.Sc. student at [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) <img src='images/logo_UCAS.png' style='width: 1.1em;'> ([learn more about UCAS](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences)), and doing my research at [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/). I am now working in the ShenZhen Key Lab of Computer Vision and Pattern Recognition. I received my B.E. degree from the Nanjing University, Nanjing, China
+in 2021. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+My research interests include deep learning, computer vision, and image enhancement. Recently, I focus on low-level tasks such as low-light image enhancement, defocus, deraining and real image denoising. In addition, I explore AIGC methods such as VAE, VQVAE, and Diffusion Models for a long time (from 2022.7 to now). I work on designing new kinds of Diffusion Models and their applications for various fields, aiming to promote the efficiency and flexibility of Diffusion Models used in the real world.
+
+> 📢📢📢 <font color=red>I am looking for research internships and Ph.D. positions.</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:jc.huang@siat.ac.cn). 😊
+
+My first mentor is Shifeng Chen and my second mentor is Chao Dong.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- *2023.03*: I submitted 3 papers to ICCV2023. 🔬
+- *2022.07*: I work with Noah's Ark Lab, HUAWEI and will delicate myself to exploring AIGC algorithm and their applications in low-level and 3D. 🔬
+- *2022.06*: 👨‍🎓👨‍🎓 I am awarded the outstanding graduate student award of UCAS!
+- *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree and get an outstanding graduation thesis award -- first prize (Top 0.5% of all bachelors in NJU)!
+- *2021.06*: 👨‍🎓👨‍🎓 I met my good friend Donghao Zhou in SIAT.
+- *2021.04*: I join MMLab @ SIAT as a research assistant here.
+- *2021.03*: 🎉🎉 I pursue my master’s degree in UCAS!
+- *2020.06*: I was awarded the excellent member of School of AI for recommendation for graduate admission.
+- *2020.10*: 🎉🎉 My three papers are accepted in the Forum of Science NJU 2020. 🤖️ 
+- *2020.09*: 🎉🎉 Again, I am awarded the second prize of Nanjing University scholarship!
+- *2019.10*: 🎉🎉 Again, we win the first prize of Sort Bank Cup China Robotics Competition 2019. 🤖️ 
+- *2019.09*: 🎉🎉 I am awarded the second prize of Nanjing University scholarship!
+- *2018.10*: 🎉🎉 We win the first prize of Sort Bank Cup China Robotics Competition 2018. 🤖️ 
+- *2017.07*: 🎉🎉 I scored 641 points in the 2017 college entrance exam, ranking in the top 600 in Guangdong Province. 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.06*: 👨‍🎓👨‍🎓 I am awarded the outstanding graduate student award of UCAS!
+- *2021.07*: 👨‍🎓👨‍🎓 I get an outstanding graduation thesis award -- first prize (Top 0.5% of all bachelors in NJU)!
+- *2020.06*: I was awarded the excellent member of School of AI for recommendation for graduate admission.
+- *2020.10*: 🎉🎉 My three papers are accepted in the Forum of Science NJU 2020. 🤖️ 
+- *2020.09*: 🎉🎉 Again, I am awarded the second prize of Nanjing University scholarship!
+- *2019.10*: 🎉🎉 Again, we win the first prize of Sort Bank Cup China Robotics Competition 2019. 🤖️ 
+- *2019.09*: 🎉🎉 I am awarded the second prize of Nanjing University scholarship!
+- *2018.10*: 🎉🎉 We win the first prize of Sort Bank Cup China Robotics Competition 2018. 🤖️  
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06 - now*, Artificial Intelligence, University of Chinese Academy of Sciences. 
+- *2017.06 - 2021.06*, Automation, Nanjing University. 
+- *2014.09 - 2017.06*, Foshan No.1 Middle School. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💻 Research Fields
+- *2022.07* &ensp; Diffusion Models algorithm research.
+- *2022.06* &ensp; Image low-level vision algorithm research.
+- *2020.01* &ensp; Robust face algorithm research.
+- *2018.07* &ensp; Robot motion algorithm research. 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 👨‍💻 Internships
+- *2022.07 - 2023.01* &ensp; Research Collaborator, Noah's Ark Lab, HUAWEI, Shenzhen, China
+- *2021.04 - 2021.08* &ensp; Research Assistant, [SIAT](https://english.siat.ac.cn/), Shenzhen, China
+- *2018.06 - 2019.10* &ensp; Team Captain, Robotics Lab of NJU, Nanjing, China
