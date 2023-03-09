@@ -25,14 +25,14 @@ My research interests include deep learning, computer vision, and image enhancem
 
 > 📢📢📢 <font color=red>I am looking for research internships and Ph.D. positions.</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:jc.huang@siat.ac.cn). 😊
 
-My first mentor is Shifeng Chen and my second mentor is Chao Dong.
+My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://people.ucas.ac.cn/~chaodong). I work very close with my coauthors such as [Donghao Zhou](https://correr-zhou.github.io/) and [Jianzhuang Liu](https://teacher.ucas.ac.cn/~jzliu#%20191067).
 
 # 🔥 News
 - *2023.03*: I submitted 3 papers to ICCV2023. 🔬
 - *2022.07*: I work with Noah's Ark Lab, HUAWEI and will delicate myself to exploring AIGC algorithm and their applications in low-level and 3D. 🔬
 - *2022.06*: 👨‍🎓👨‍🎓 I am awarded the outstanding graduate student award of UCAS!
 - *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree and get an outstanding graduation thesis award -- first prize (Top 0.5% of all bachelors in NJU)!
-- *2021.06*: 👨‍🎓👨‍🎓 I met my good friend Donghao Zhou in SIAT.
+- *2021.06*: 👨‍🎓👨‍🎓 I met my close friend [Donghao Zhou](https://correr-zhou.github.io/) in SIAT.
 - *2021.04*: I join MMLab @ SIAT as a research assistant here.
 - *2021.03*: 🎉🎉 I pursue my master’s degree in UCAS!
 - *2020.06*: I was awarded the excellent member of School of AI for recommendation for graduate admission.
