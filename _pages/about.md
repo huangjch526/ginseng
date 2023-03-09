@@ -25,7 +25,7 @@ My research interests include deep learning, computer vision, and image enhancem
 
 > 📢📢📢 <font color=red>I am looking for research internships and Ph.D. positions.</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:jc.huang@siat.ac.cn). 😊
 
-My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://people.ucas.ac.cn/~chaodong). I work very close with my coauthors such as [Donghao Zhou](https://correr-zhou.github.io/) and [Jianzhuang Liu](https://teacher.ucas.ac.cn/~jzliu#%20191067).
+My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://people.ucas.ac.cn/~chaodong). I work very closely with my coauthors such as [Donghao Zhou](https://correr-zhou.github.io/) and [Jianzhuang Liu](https://teacher.ucas.ac.cn/~jzliu#%20191067).
 
 # 🔥 News
 - *2023.03*: I submitted 3 papers to ICCV2023. 🔬
