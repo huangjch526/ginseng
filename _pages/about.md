@@ -25,7 +25,7 @@ My research interests include deep learning, computer vision, and image enhancem
 
 > 📢📢📢 <font color=red>I am looking for research internships and Ph.D. positions.</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:jc.huang@siat.ac.cn). 😊
 
-My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://people.ucas.ac.cn/~chaodong). I work very closely with my coauthors such as [Donghao Zhou](https://correr-zhou.github.io/) and [Jianzhuang Liu](https://teacher.ucas.ac.cn/~jzliu#%20191067).
+My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://people.ucas.ac.cn/~chaodong). I also work with my coauthors such as [Donghao Zhou](https://correr-zhou.github.io/), Chaoqi Chen, Yifan Liu, Jaixi Lv, Yi Huang, and [Jianzhuang Liu](https://teacher.ucas.ac.cn/~jzliu#%20191067).
 
 # 🔥 News
 - *2023.10*: I get my SSP offers from many companies. 🔬
@@ -44,17 +44,6 @@ My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://peop
 - *2017.07*: 🎉🎉 I scored 641 points in the 2017 college entrance exam, ranking in the top 600 in Guangdong Province. 
 
 # 📝 Publications
-- [Bootstrap Diffusion Model Curve Estimation for High-Resolution Low-Light Image Enhancement]
-
-  **Jiancheng Huang**, Yifan Liu, Shifeng Chen
-
-  Pacific Rim International Conference on Artificial Intelligence (PRICAI) \| CCF-C
-
-- [KV Inversion: KV Embeddings Learning for Text-Conditioned Real Image Action Editing]
-
-  **Jiancheng Huang**, Yifan Liu, Shifeng Chen
-
-  Chinese Conference on Pattern Recognition and Computer Vision (PRCV) \| CCF-C
 
 - [DeSeal: Semantic-Aware Seal2Clear Attention for Document Seal Removal]
 
@@ -67,18 +56,6 @@ My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://peop
   Yi Huang, Yu Dong, He Zhang, **Jiancheng Huang**, Shifeng Chen
 
   IEEE Transactions on Consumer Electronics (TCE) \| SCI Q2
-
-- [FEC: Three Finetuning-free Methods to Enhance Consistency for Real Image Editing]
-
-  Songyan Chen\*, **Jiancheng Huang\*** (\* indicates equal contribution)
-
-  IEEE International Conference on Image Processing, Computer Vision and Machine Learning
-
-- [SpecRef: A Fast Training-free Baseline of Specific Reference-Condition Real Image Editing]
-
-  Songyan Chen\*, **Jiancheng Huang\*** (\* indicates equal contribution)
-
-  IEEE International Conference on Image Processing, Computer Vision and Machine Learning
 
 - [IFAST: Weakly Supervised Interpretable Face Anti-spoofing from Single-shot Binocular NIR Images]
 
@@ -101,18 +78,6 @@ My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://peop
 - [Distribution-Aware Calibration for Object Detection with Noisy Bounding Boxes]
 
   Donghao Zhou, Jialin Li, Jinpeng Li, **Jiancheng Huang**, Qiang Nie, Yong liu, Bin-Bin Gao, Qiong Wang, Pheng-Ann Heng, Guangyong Chen
-
-  arXiv Preprint 2023 (Under Review)
-
-- [WaveDM: Wavelet-Based Diffusion Models for Image Restoration]
-
-  Yi Huang\*, **Jiancheng Huang\***, Jianzhuang Liu, Yu Dong, Jiaxi Lv, Shifeng Chen (\* indicates equal contribution)
-
-  arXiv Preprint 2023 (Under Review)
-
-- [DeLight: Denoising Diffusion Low-Light Image Enhancement Model]
-
-  **Jiancheng Huang**, Yi Huang, Jianzhuang Liu, Chaoqi Chen, Donghao Zhou, Shifeng Chen, Yizhou Yu
 
   arXiv Preprint 2023 (Under Review)
   
