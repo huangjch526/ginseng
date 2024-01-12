@@ -25,11 +25,12 @@ My research interests include deep learning, computer vision, and image enhancem
 
 > 📢📢📢 <font color=red>I am looking for research internships and Ph.D. positions.</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:jc.huang@siat.ac.cn). 😊
 
-My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://people.ucas.ac.cn/~chaodong). I also work with my coauthors such as [Donghao Zhou](https://correr-zhou.github.io/), Chaoqi Chen, Yifan Liu, Jaixi Lv, Yi Huang, and [Jianzhuang Liu](https://teacher.ucas.ac.cn/~jzliu#%20191067).
+My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://people.ucas.ac.cn/~chaodong). I also work with my coauthors such as [Donghao Zhou](https://correr-zhou.github.io/), [Chaoqi Chen]([https://correr-zhou.github.io/](https://chaoqichen.github.io/)), Yifan Liu, Jaixi Lv, Yi Huang, and [Jianzhuang Liu](https://teacher.ucas.ac.cn/~jzliu#%20191067).
 
 # 🔥 News
+- *2023.12*: I am awarded the SIAT president scholarship!
 - *2023.10*: I get my SSP offers from many companies. 🔬
-- *2022.07*: I work with Noah's Ark Lab, HUAWEI and will dedicate myself to exploring AIGC algorithm and their applications in low-level and 3D. 🔬
+- *2022.07*: I work with Noah's Ark Lab, HUAWEI, and will dedicate myself to exploring AIGC algorithm and their applications in low-level and 3D. 🔬
 - *2022.06*: 👨‍🎓👨‍🎓 I am awarded the outstanding graduate student award of UCAS!
 - *2021.07*: 👨‍🎓👨‍🎓 I got my bachelor’s degree and got an outstanding graduation thesis award -- first prize (Top 0.5% of all bachelors in NJU)!
 - *2021.06*: 👨‍🎓👨‍🎓 I met my close friend [Donghao Zhou](https://correr-zhou.github.io/) in SIAT.
@@ -41,10 +42,22 @@ My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://peop
 - *2019.10*: 🎉🎉 Again, we won the first prize in the Sort Bank Cup China Robotics Competition 2019. 🤖️ 
 - *2019.09*: 🎉🎉 I am awarded the second prize of Nanjing University scholarship!
 - *2018.10*: 🎉🎉 We won the first prize in the Sort Bank Cup China Robotics Competition 2018. 🤖️ 
-- *2017.07*: 🎉🎉 I scored 641 points in the 2017 college entrance exam, ranking in the top 600 in Guangdong Province. 
+- *2017.07*: 🎉🎉 I scored 641 points in the 2017 college entrance exam, ranking in the top 600 in Guangdong Province (Top 0.1% of all students in Guangdong). 
 
 # 📝 Publications
 
+- [WaveDM: Wavelet-Based Diffusion Models for Image Restoration]
+
+  Yi Huang\*, **Jiancheng Huang\***, Jianzhuang Liu, Yu Dong, Jiaxi Lv, Shifeng Chen (\* indicates equal contribution)
+
+  IEEE Transaction on Multimedia (TMM) \| SCI Q1
+
+- [Entwined Inversion: Tune-Free Inversion for Real Image Faithful Reconstruction and Editing]
+
+  **Jiancheng Huang**, Yifan Liu, Jiaxi Lv, Shifeng Chen (\* indicates equal contribution)
+
+  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) \| CCF-B
+  
 - [DeSeal: Semantic-Aware Seal2Clear Attention for Document Seal Removal]
 
   Yifan Liu\*, **Jiancheng Huang\***, , Shifeng Chen (\* indicates equal contribution)
@@ -82,6 +95,7 @@ My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://peop
   arXiv Preprint 2023 (Under Review)
   
 # 🎖 Honors and Awards
+- *2023.12*: I am awarded the SIAT president scholarship!
 - *2022.06*: 👨‍🎓👨‍🎓 I am awarded the outstanding graduate student award of UCAS!
 - *2021.07*: 👨‍🎓👨‍🎓 I get an outstanding graduation thesis award -- first prize (Top 0.5% of all bachelors in NJU)!
 - *2020.06*: I was awarded the excellent member of School of AI for recommendation for graduate admission.
