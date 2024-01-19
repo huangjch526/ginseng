@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a M.Sc. student at [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) <img src='images/logo_UCAS.png' style='width: 1.1em;'> ([learn more about UCAS](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences)), and doing my research at [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/). I am now working in the ShenZhen Key Lab of Computer Vision and Pattern Recognition. I received my B.E. degree from the Nanjing University, Nanjing, China
-in 2021. 
+I am currently a M.Sc. student at [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) <img src='images/logo_UCAS.png' style='width: 1.1em;'> ([learn more about UCAS](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences)), and doing my research at [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/). I am now working in the [SIAT-MMLAB](https://english.siat.ac.cn/), which was founded and directed by Professor Xiaoou Tang. I received my B.E. degree from Nanjing University, Nanjing, China in 2021. 
 
-
-My research interests include deep learning, computer vision, and image enhancement. Recently, I have focused on low-level tasks such as low-light image enhancement, defocus, deraining and real image denoising. In addition, I have explored AIGC methods such as VAE, VQVAE, and Diffusion Models for a long time (from 2022.7 to now). I work on designing new kinds of Diffusion Models and their applications for various fields, aiming to promote the efficiency and flexibility of Diffusion Models used in the real world.
+My research interests include deep learning, computer vision, and image enhancement. Recently, I have focused on low-level tasks such as low-light image enhancement, defocus, draining, and real image denoising. In addition, I have explored AIGC methods such as VAE, VQVAE, and Diffusion Models for a long time (from 2022.7 to now). I work on designing new kinds of Diffusion Models and their applications for various fields, aiming to promote the efficiency and flexibility of Diffusion Models used in the real world. I have served as a reviewer for ICCV, ECCV, ICME, MMM, and PRCV.
 
 > 📢📢📢 <font color=red>I am looking for research internships and Ph.D. positions.</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:jc.huang@siat.ac.cn). 😊
 
@@ -54,9 +52,15 @@ My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://peop
 
 - [Entwined Inversion: Tune-Free Inversion for Real Image Faithful Reconstruction and Editing]
 
-  **Jiancheng Huang**, Yifan Liu, Jiaxi Lv, Shifeng Chen (\* indicates equal contribution)
+  **Jiancheng Huang**, Yifan Liu, Jiaxi Lv, Shifeng Chen 
 
   IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) \| CCF-B
+
+- [BK-Editer: Body-Keeping Text-Conditioned Real Image Editing]
+
+  **Jiancheng Huang**, Yifan Liu, Linxiao Shi, Jin Qin, Shifeng Chen
+
+  Computational Visual Media (CVM) \| CCF-C
   
 - [DeSeal: Semantic-Aware Seal2Clear Attention for Document Seal Removal]
 
@@ -76,6 +80,12 @@ My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://peop
 
   arXiv Preprint 2023 (Under Review)
 
+- [SpecRef: A Fast Training-free Baseline of Specific Reference-Condition Real Image Editing]
+
+  Songyan Chen, **Jiancheng Huang\*** (\* indicates corresponding author)
+
+  arXiv Preprint 2023 (Under Review)
+
 - [Seal2Real: Prompt Prior Learning on Diffusion Model for Unsupervised Document Seal Data Generation and Realisation]
 
   **Jiancheng Huang**, Yifan Liu, Shifeng Chen 
@@ -85,6 +95,12 @@ My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://peop
 - [Graph Edit Distance Learning via Different Attention]
 
   Jiaxi Lv, Liang Zhang, Yi Huang, **Jiancheng Huang**, Shifeng Chen
+
+  arXiv Preprint 2023 (Under Review)
+
+- [GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning]
+
+  Jiaxi Lv, Yi Huang, Mingfu Yan, **Jiancheng Huang**, Jianzhuang Liu, Yifan Liu, Yafei Wen, Xiaoxin Chen, Shifeng Chen
 
   arXiv Preprint 2023 (Under Review)
 
@@ -111,7 +127,7 @@ My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://peop
 - *2014.09 - 2017.06*, Foshan No.1 Middle School. 
 
 # 💻 Research Fields
-- *2022.07* &ensp; Diffusion Models algorithm research.
+- *2022.07-now* &ensp; Diffusion Models algorithm research.
 - *2022.06* &ensp; Image low-level vision algorithm research.
 - *2020.01* &ensp; Robust face algorithm research.
 - *2018.07* &ensp; Robot motion algorithm research. 
