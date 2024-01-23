@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a M.Sc. student at [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) <img src='images/logo_UCAS.png' style='width: 1.1em;'> ([Ranking NO.112 in US.News](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences)), and doing my research at [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/). I am now working in the CUHK@MMLAB in Shenzhen named [SIAT-MMLAB](https://english.siat.ac.cn/), which was founded and directed by Professor Xiaoou Tang, Yu Qiao, and Chao Dong. I received my B.E. degree from [Nanjing University (NJU)]([https://english.ucas.ac.cn/](https://www.nju.edu.cn/)) <img src='images/logo_NJU.png' style='width: 1.1em;'> ([Ranking NO.73 in THE and NO.141 in QS](https://en.wikipedia.org/wiki/Nanjing_University)), Nanjing, China in 2021. 
+I am currently a M.Sc. student at [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) <img src='images/logo_UCAS.png' style='width: 1.1em;'> ([Ranking NO.112 in US.News](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences)), and doing my research at [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/). I am now working in the CUHK@MMLAB in Shenzhen named [SIAT-MMLAB](https://english.siat.ac.cn/), which was founded and directed by Professor [Xiaoou Tang](https://people.ucas.edu.cn/~0017056?language=en), Yu Qiao, and Chao Dong. I received my B.E. degree from [Nanjing University (NJU)]([https://english.ucas.ac.cn/](https://www.nju.edu.cn/)) <img src='images/logo_NJU.png' style='width: 1.1em;'> ([Ranking NO.73 in THE and NO.141 in QS](https://en.wikipedia.org/wiki/Nanjing_University)), Nanjing, China in 2021. 
 
 My research interests include deep learning, computer vision, and image enhancement. Recently, I have focused on low-level tasks, image editing, image generation, video generation, and 3D generation. I have explored AIGC methods such as Diffusion Models for a long time (from 2022.7 to now). I work on designing new kinds of Diffusion Models and their applications for various fields, aiming to promote the efficiency and flexibility of Diffusion Models used in the real world. I am an IEEE member and SPS member, and **I have served as a reviewer for top conference such as ICCV, ECCV, ICME, MMM, and PRCV.**
 
@@ -63,6 +63,12 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 
   Computational Visual Media (CVM) \| CCF-C
   
+- [Bootstrap Diffusion Model Curve Estimation for High Resolution Low-Light Image Enhancement]
+  
+  **Jiancheng Huang**, Yifan Liu, Shifeng Chen
+
+  Pacific Rim International Conference on Artificial Intelligence (PRICAI) \| CCF-C
+  
 - [DeSeal: Semantic-Aware Seal2Clear Attention for Document Seal Removal]
 
   Yifan Liu\*, **Jiancheng Huang\***, , Shifeng Chen (\* indicates equal contribution)
@@ -99,13 +105,12 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 
   arXiv Preprint 2023 (Under Review)
 
-- [GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning]
+- [GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning](https://gpt4motion.github.io/)
 
   Jiaxi Lv, Yi Huang, Mingfu Yan, **Jiancheng Huang**, Jianzhuang Liu, Yifan Liu, Yafei Wen, Xiaoxin Chen, Shifeng Chen
 
   arXiv Preprint 2023 (Under Review)
-
-
+-
 - [Distribution-Aware Calibration for Object Detection with Noisy Bounding Boxes]
 
   Donghao Zhou, Jialin Li, Jinpeng Li, **Jiancheng Huang**, Qiang Nie, Yong liu, Bin-Bin Gao, Qiong Wang, Pheng-Ann Heng, Guangyong Chen
