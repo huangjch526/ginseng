@@ -51,6 +51,8 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
   Yi Huang\*, **Jiancheng Huang\***, Yifan Liu, Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao
 
   arXiv Preprint 2023 (Under Review of TPAMI)
+
+  \quad
   
 - [WaveDM: Wavelet-Based Diffusion Models for Image Restoration]
 
