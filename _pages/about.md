@@ -52,7 +52,7 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 
   arXiv Preprint 2023 (Under Review of TPAMI)
 
-  \quad
+  🎉
   
 - [WaveDM: Wavelet-Based Diffusion Models for Image Restoration]
 
@@ -60,29 +60,39 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 
   IEEE Transaction on Multimedia (TMM) \| SCI Q1 Top
 
+  🎉
+
 - [Entwined Inversion: Tune-Free Inversion for Real Image Faithful Reconstruction and Editing]
 
   **Jiancheng Huang**, Yifan Liu, Jiaxi Lv, Shifeng Chen 
 
   IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) \| CCF-B
 
+  🎉
+
 - [BK-Editer: Body-Keeping Text-Conditioned Real Image Editing]
 
   **Jiancheng Huang**, Yifan Liu, Linxiao Shi, Jin Qin, Shifeng Chen
 
   Computational Visual Media (CVM) \| CCF-C
+
+  🎉
   
 - [Bootstrap Diffusion Model Curve Estimation for High Resolution Low-Light Image Enhancement]
   
   **Jiancheng Huang**, Yifan Liu, Shifeng Chen
 
-  Pacific Rim International Conference on Artificial Intelligence (PRICAI) \| CCF-C (best paper candidate)
+  Pacific Rim International Conference on Artificial Intelligence (PRICAI) \| CCF-C (Best Paper Candidate)
+
+  🎉
   
 - [DeSeal: Semantic-Aware Seal2Clear Attention for Document Seal Removal]
 
-  Yifan Liu\*, **Jiancheng Huang\***, , Shifeng Chen (\* indicates equal contribution)
+  Yifan Liu\*, **Jiancheng Huang\***, Shifeng Chen (\* indicates equal contribution)
 
   IEEE Signal Processing Letters (SPL) \| SCI Q2
+
+  🎉
 
 - [Learning Image-Adaptive Lookup Tables With Spatial Awareness for Image Harmonization]
 
@@ -90,23 +100,31 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 
   IEEE Transactions on Consumer Electronics (TCE) \| SCI Q2
 
+  🎉
+
 - [IFAST: Weakly Supervised Interpretable Face Anti-spoofing from Single-shot Binocular NIR Images]
 
   **Jiancheng Huang**, Donghao Zhou, Shifeng Chen 
 
-  arXiv Preprint 2023 (Under Review)
+  arXiv Preprint 2023 (Under Review) (GitHub 50+ stars)
+
+  🎉
 
 - [SpecRef: A Fast Training-free Baseline of Specific Reference-Condition Real Image Editing]
 
   Songyan Chen, **Jiancheng Huang\*** (\* indicates corresponding author)
 
-  arXiv Preprint 2023 (Under Review)
+  arXiv Preprint 2023 (Under Review) (GitHub 30+ stars)
+
+  🎉
 
 - [Seal2Real: Prompt Prior Learning on Diffusion Model for Unsupervised Document Seal Data Generation and Realisation]
 
   **Jiancheng Huang**, Yifan Liu, Shifeng Chen 
 
   arXiv Preprint 2023 (Under Review)
+  
+  🎉
 
 - [Graph Edit Distance Learning via Different Attention]
 
@@ -114,20 +132,27 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 
   arXiv Preprint 2023 (Under Review)
 
+  🎉
+
 - [GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning](https://gpt4motion.github.io/)
 
   Jiaxi Lv, Yi Huang, Mingfu Yan, **Jiancheng Huang**, Jianzhuang Liu, Yifan Liu, Yafei Wen, Xiaoxin Chen, Shifeng Chen
 
-  arXiv Preprint 2023 (Under Review)
+  arXiv Preprint 2024 (Under Review)
+
+  🎉
 
 - [Distribution-Aware Calibration for Object Detection with Noisy Bounding Boxes]
 
   Donghao Zhou, Jialin Li, Jinpeng Li, **Jiancheng Huang**, Qiang Nie, Yong liu, Bin-Bin Gao, Qiong Wang, Pheng-Ann Heng, Guangyong Chen
 
   arXiv Preprint 2023 (Under Review)
+
+  🎉
   
 # 🎖 Honors and Awards
 - *2023.12*: I am awarded the SIAT president scholarship!
+- *2023.12*: I am awarded the best paper candidate in PRICAI!
 - *2022.06*: 👨‍🎓👨‍🎓 I am awarded the outstanding graduate student award of UCAS!
 - *2021.07*: 👨‍🎓👨‍🎓 I get an outstanding graduation thesis award -- first prize (Top 0.5% of all bachelors in NJU)!
 - *2020.06*: I was awarded the excellent member of School of AI for recommendation for graduate admission.
