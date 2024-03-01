@@ -46,7 +46,7 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 
 # 📝 Publications
 
-- [Diffusion Model-Based Image Editing: A Survey]([https://gpt4motion.github.io/](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods))
+- [Diffusion Model-Based Image Editing: A Survey](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods)
 
   Yi Huang\*, **Jiancheng Huang\***, Yifan Liu, Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao
 
