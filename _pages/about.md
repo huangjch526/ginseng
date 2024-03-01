@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a M.Sc. student at [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) <img src='images/logo_UCAS.png' style='width: 1.1em;'> ([Ranking NO.112 in US.News](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences)), and doing my research at [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/). I am now working in the CUHK@MMLAB in Shenzhen named [SIAT-MMLAB](https://english.siat.ac.cn/), which was founded and directed by Professor [Xiaoou Tang](https://people.ucas.edu.cn/~0017056?language=en), Yu Qiao, and Chao Dong. I received my B.E. degree from [Nanjing University (NJU)]([https://english.ucas.ac.cn/](https://www.nju.edu.cn/)) <img src='images/logo_NJU.png' style='width: 1.1em;'> ([Ranking NO.73 in THE, NO.123 in US.News, and NO.121 in QS](https://en.wikipedia.org/wiki/Nanjing_University)), Nanjing, China in 2021. 
 
-My research interests include deep learning, computer vision, and image enhancement. Recently, I have focused on AIGC, low-level tasks, image editing, image generation, video generation, and 3D generation. I have explored AIGC methods such as Diffusion Models for a long time (from 2022.7 to now). I work on designing new kinds of Diffusion Models and their applications for various fields, aiming to promote the efficiency and flexibility of Diffusion Models used in the real world. I am an IEEE member, IEEE SPS member and CCF member. **I have served as a reviewer for top conferences such as ICCV, ECCV, ICME, ICMR, MMM, and PRCV.**
+My research interests include deep learning, computer vision, and image enhancement. Recently, I have focused on AIGC, low-level tasks, image editing, image generation, video generation, and 3D generation. I have explored AIGC methods such as Diffusion Models for a long time (from 2022.7 to now). I work on designing new kinds of Diffusion Models and their applications for various fields, aiming to promote the efficiency and flexibility of Diffusion Models used in the real world. I am now an IEEE member, IEEE SPS member and CCF member. **I have served as a reviewer for top conferences such as ICCV, ECCV, ICME, ICMR, MMM, and PRCV.**
 
 > 📢📢📢 <font color=red>I am looking for Ph.D. positions.</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:jc.huang@siat.ac.cn). 😊
 
@@ -28,6 +28,7 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 # 🔥 News
 - *2023.12*: In 2023, I had 9 articles accepted, 8 of which were first-authored (or equal contribution)
 - *2023.12*: I am awarded the **SIAT president scholarship**!
+- *2023.10*: I am awarded the **Best paper candidate** in PRICAI!
 - *2023.10*: I get my SSP offers from many companies. 🔬
 - *2022.07*: I work with Noah's Ark Lab, HUAWEI, and dedicate myself to exploring AIGC algorithm and their applications in low-level and 3D. 🔬
 - *2022.06*: 👨‍🎓👨‍🎓 I am awarded the outstanding graduate student award of UCAS!
@@ -45,6 +46,12 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 
 # 📝 Publications
 
+- [Diffusion Model-Based Image Editing: A Survey]([https://gpt4motion.github.io/](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods))
+
+  Yi Huang\*, **Jiancheng Huang\***, Yifan Liu, Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao
+
+  arXiv Preprint 2023 (Under Review of TPAMI)
+  
 - [WaveDM: Wavelet-Based Diffusion Models for Image Restoration]
 
   Yi Huang\*, **Jiancheng Huang\***, Jianzhuang Liu, Yu Dong, Jiaxi Lv, Shifeng Chen (\* indicates equal contribution)
@@ -67,7 +74,7 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
   
   **Jiancheng Huang**, Yifan Liu, Shifeng Chen
 
-  Pacific Rim International Conference on Artificial Intelligence (PRICAI) \| CCF-C
+  Pacific Rim International Conference on Artificial Intelligence (PRICAI) \| CCF-C (best paper candidate)
   
 - [DeSeal: Semantic-Aware Seal2Clear Attention for Document Seal Removal]
 
