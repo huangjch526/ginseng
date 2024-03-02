@@ -23,7 +23,7 @@ My research interests include deep learning, computer vision, and image enhancem
 
 > 📢📢📢 <font color=red>I am looking for Ph.D. positions.</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:jc.huang@siat.ac.cn). 😊
 
-My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my second mentor is [Chao Dong](https://people.ucas.ac.cn/~chaodong). I also work with my coauthors such as [Donghao Zhou](https://correr-zhou.github.io/), [Chaoqi Chen](https://chaoqichen.github.io/)), Yifan Liu, Jaixi Lv, Yi Huang, and [Jianzhuang Liu](https://teacher.ucas.ac.cn/~jzliu#%20191067).
+My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my second mentor is [Chao Dong](https://people.ucas.ac.cn/~chaodong). I also work with my coauthors such as [Donghao Zhou](https://correr-zhou.github.io/), [Chaoqi Chen](https://chaoqichen.github.io/), Yifan Liu, Jaixi Lv, Yi Huang, and [Jianzhuang Liu](https://teacher.ucas.ac.cn/~jzliu#%20191067).
 
 # 🔥 News
 - *2023.12*: In 2023, I had 9 articles accepted, 8 of which were first-authored (or equal contribution)
@@ -58,7 +58,7 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 
   Yi Huang\*, **Jiancheng Huang\***, Jianzhuang Liu, Yu Dong, Jiaxi Lv, Shifeng Chen (\* indicates equal contribution)
 
-  IEEE Transaction on Multimedia (TMM) \| SCI Q1 Top
+  IEEE Transaction on Multimedia (TMM) \| SCI Q1 Top \| Tsinghua list A
 
   🎉
 
@@ -90,7 +90,7 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 
   Yifan Liu\*, **Jiancheng Huang\***, Shifeng Chen (\* indicates equal contribution)
 
-  IEEE Signal Processing Letters (SPL) \| SCI Q2
+  IEEE Signal Processing Letters (SPL) \| SCI Q2 \| Tsinghua list B
 
   🎉
 
