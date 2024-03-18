@@ -52,6 +52,12 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 
   arXiv Preprint 2023 (Under Review of TPAMI)
 
+  量子位链接：https://mp.weixin.qq.com/s/4efSWtpA2RMN7tVOGTYfxw
+
+  新智元链接：https://mp.weixin.qq.com/s/7skCBhRSAcevR85ooW9F4g
+
+  机器之心链接：https://mp.weixin.qq.com/s/bupEHVZetu0IUiJmmQjr6g
+
   🎉
   
 - [WaveDM: Wavelet-Based Diffusion Models for Image Restoration]
