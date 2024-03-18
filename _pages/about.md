@@ -46,17 +46,17 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI Survey (Under review)</div><img src='images/review.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 - [Diffusion Model-Based Image Editing: A Survey](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods)
 
   Yi Huang\*, **Jiancheng Huang\***, Yifan Liu, Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao
 
   arXiv Preprint 2023 (Under Review of TPAMI)
-
-  量子位链接：https://mp.weixin.qq.com/s/4efSWtpA2RMN7tVOGTYfxw
-
-  新智元链接：https://mp.weixin.qq.com/s/7skCBhRSAcevR85ooW9F4g
-
-  机器之心链接：https://mp.weixin.qq.com/s/bupEHVZetu0IUiJmmQjr6g
+  
+<!-- **<font color=red>中国顶级公众号宣传</font>** \|  -->
+[[量子位]](https://mp.weixin.qq.com/s/4efSWtpA2RMN7tVOGTYfxw) [[机器之心]](https://mp.weixin.qq.com/s/bupEHVZetu0IUiJmmQjr6g) [[新智元]](https://mp.weixin.qq.com/s/7skCBhRSAcevR85ooW9F4g) [[我爱计算机视觉]](https://mp.weixin.qq.com/s/MFbCt0XfOf9fV0YbdkmR6g) [[专知]](https://mp.weixin.qq.com/s/eztg0R2bD8IaUG3c9i8ZXg)
 
   🎉
   
