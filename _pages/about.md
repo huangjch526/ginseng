@@ -21,7 +21,7 @@ I am currently a M.Sc. student at [University of Chinese Academy of Sciences (UC
 
 My research interests include deep learning, computer vision, and image enhancement. Recently, I have focused on AIGC, low-level tasks, image editing, image generation, video generation, and 3D generation. I have explored AIGC methods such as Diffusion Models for a long time (from 2022.7 to now). I work on designing new kinds of Diffusion Models and their applications for various fields, aiming to promote the efficiency and flexibility of Diffusion Models used in the real world. I am now an IEEE member, IEEE SPS member and CCF member. **I have served as a reviewer for top conferences such as ICCV, ECCV, ICME, ICMR, MMM, and PRCV.**
 
-> 📢📢📢 <font color=red>I am looking for Ph.D. positions.</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:jc.huang@siat.ac.cn). 😊
+> 📢📢📢 <font color=red>I am looking for more close friends in research.</font> If you would like to discuss AIGC or diffusion models with me, please feel free to [contact me](mailto:jc.huang@siat.ac.cn). 😊
 
 My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my second mentor is [Chao Dong](https://people.ucas.ac.cn/~chaodong). I also work with my coauthors such as [Donghao Zhou](https://correr-zhou.github.io/), [Chaoqi Chen](https://chaoqichen.github.io/), Yifan Liu, Jaixi Lv, Yi Huang, and [Jianzhuang Liu](https://teacher.ucas.ac.cn/~jzliu#%20191067).
 
@@ -42,7 +42,7 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 - *2019.10*: 🎉🎉 Again, we won the first prize in the Sort Bank Cup China Robotics Competition 2019. 🤖️ 
 - *2019.09*: 🎉🎉 I am awarded the second prize of Nanjing University scholarship!
 - *2018.10*: 🎉🎉 We won the first prize in the Sort Bank Cup China Robotics Competition 2018. 🤖️ 
-- *2017.07*: 🎉🎉 I scored 641 points in the 2017 college entrance exam, ranking in the **Top 600 in Guangdong Province (Top 0.1% of all students in Guangdong)**. 
+- *2017.07*: 🎉🎉 I scored 641 points in the 2017 college entrance exam (高考), ranking in the **Top 600 in Guangdong Province (Top 0.1% of all students in Guangdong)**. 
 
 # 📝 Publications
 
