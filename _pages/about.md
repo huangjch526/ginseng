@@ -46,8 +46,9 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI Survey (Under review)</div><img src='images/survey.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<p align="center">
+  <img src="images/survey.jpg" alt="image" style="width:1000px;">
+</p>
   
 - [Diffusion Model-Based Image Editing: A Survey](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods)
 
