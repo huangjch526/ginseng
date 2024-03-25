@@ -62,15 +62,23 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
   
 - [WaveDM: Wavelet-Based Diffusion Models for Image Restoration]
 
-  Yi Huang\*, **Jiancheng Huang\***, Jianzhuang Liu, Yu Dong, Jiaxi Lv, Shifeng Chen (\* indicates equal contribution)
+  Yi Huang\*, **Jiancheng Huang\***, et. al. (\* indicates equal contribution)
 
   IEEE Transaction on Multimedia (TMM) \| SCI Q1 Top \| Tsinghua list A
 
   🎉
+  
+- [Stable Diffusion already has a noisy style latent space]
 
+  **Jiancheng Huang**, et. al. 
+
+  IEEE International Conference on Multimedia and Expo (ICME) \| CCF-B
+
+  🎉
+  
 - [Entwined Inversion: Tune-Free Inversion for Real Image Faithful Reconstruction and Editing]
 
-  **Jiancheng Huang**, Yifan Liu, Jiaxi Lv, Shifeng Chen 
+  **Jiancheng Huang**, et. al. 
 
   IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) \| CCF-B
 
@@ -78,7 +86,7 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 
 - [BK-Editer: Body-Keeping Text-Conditioned Real Image Editing]
 
-  **Jiancheng Huang**, Yifan Liu, Linxiao Shi, Jin Qin, Shifeng Chen
+  **Jiancheng Huang**, et. al.
 
   Computational Visual Media (CVM) \| CCF-C
 
@@ -86,7 +94,7 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
   
 - [Bootstrap Diffusion Model Curve Estimation for High Resolution Low-Light Image Enhancement]
   
-  **Jiancheng Huang**, Yifan Liu, Shifeng Chen
+  **Jiancheng Huang**, et. al.
 
   Pacific Rim International Conference on Artificial Intelligence (PRICAI) \| CCF-C (Best Paper Candidate)
 
@@ -94,7 +102,7 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
   
 - [DeSeal: Semantic-Aware Seal2Clear Attention for Document Seal Removal]
 
-  Yifan Liu\*, **Jiancheng Huang\***, Shifeng Chen (\* indicates equal contribution)
+  Yifan Liu\*, **Jiancheng Huang\***, et. al. (\* indicates equal contribution)
 
   IEEE Signal Processing Letters (SPL) \| SCI Q2 \| Tsinghua list B
 
@@ -164,9 +172,9 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 - *2020.06*: I was awarded the excellent member of School of AI for recommendation for graduate admission.
 - *2020.10*: 🎉🎉 My three papers are accepted in the Forum of Science NJU 2020. 🤖️ 
 - *2020.09*: 🎉🎉 Again, I am awarded the second prize of Nanjing University scholarship!
-- *2019.10*: 🎉🎉 Again, we win the first prize of Sort Bank Cup China Robotics Competition 2019. 🤖️ 
+- *2019.10*: 🎉🎉 Again, we win the first prize of the Soft Bank Cup China Robotics Competition 2019. 🤖️ 
 - *2019.09*: 🎉🎉 I am awarded the second prize of Nanjing University scholarship!
-- *2018.10*: 🎉🎉 We win the first prize of Sort Bank Cup China Robotics Competition 2018. 🤖️  
+- *2018.10*: 🎉🎉 We win the first prize of the Soft Bank Cup China Robotics Competition 2018. 🤖️  
 
 # 📖 Educations
 - *2021.06 - now*, Artificial Intelligence, University of Chinese Academy of Sciences. 
