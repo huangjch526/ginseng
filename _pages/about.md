@@ -49,10 +49,15 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 <p align="center">
   <img src="images/survey.png" alt="image" style="width:1000px;">
 </p>
+
+
   🎉
 I am a student member of MMLab (MM for multimedia), and most of my work is also focused on multimedia as well as multimodal generative research, so I frequently contribute papers to conferences in the field of computer graphics and multimedia.
+🎉
+
+
 - [Diffusion Model-Based Image Editing: A Survey](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods)
-  🎉
+
   Yi Huang\*, **Jiancheng Huang\***, Yifan Liu, Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao
 
   arXiv Preprint 2023 (Under Review of TPAMI)
