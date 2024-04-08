@@ -67,6 +67,12 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
   IEEE Transaction on Multimedia (TMM) \| SCI Q1 Top \| Tsinghua list A
 
   🎉
+
+- [SBCR: Stochasticity Beats Content Restriction Problem in Training and Tuning Free Image Editing]
+
+  **Jiancheng Huang**, et. al. 
+
+  ACM International Conference on Multimedia Retrieval (ICMR) \| CCF-B
   
 - [Stable Diffusion already has a noisy style latent space]
 
