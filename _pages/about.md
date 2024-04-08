@@ -73,6 +73,8 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
   **Jiancheng Huang**, et. al. 
 
   ACM International Conference on Multimedia Retrieval (ICMR) \| CCF-B
+
+  🎉
   
 - [Stable Diffusion already has a noisy style latent space]
 
@@ -95,6 +97,14 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
   **Jiancheng Huang**, et. al.
 
   Computational Visual Media (CVM) \| CCF-C
+
+  🎉
+
+- [GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning](https://gpt4motion.github.io/)
+
+  Jiaxi Lv, Yi Huang, Mingfu Yan, **Jiancheng Huang**, et. al.
+
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops
 
   🎉
   
@@ -151,14 +161,6 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
   Jiaxi Lv, Liang Zhang, Yi Huang, **Jiancheng Huang**, Shifeng Chen
 
   arXiv Preprint 2023 (Under Review)
-
-  🎉
-
-- [GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning](https://gpt4motion.github.io/)
-
-  Jiaxi Lv, Yi Huang, Mingfu Yan, **Jiancheng Huang**, Jianzhuang Liu, Yifan Liu, Yafei Wen, Xiaoxin Chen, Shifeng Chen
-
-  arXiv Preprint 2024 (Under Review)
 
   🎉
 
