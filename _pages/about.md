@@ -114,11 +114,13 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   🎉
   
-  - [NTIRE 2024 Challenge on Low Light Image Enhancement: Methods and Results]
+- [NTIRE 2024 Challenge on Low Light Image Enhancement: Methods and Results]
 
   et. al, **Jiancheng Huang**, et. al.
 
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops
+
+  🎉
   
 - [Bootstrap Diffusion Model Curve Estimation for High Resolution Low-Light Image Enhancement]
   
