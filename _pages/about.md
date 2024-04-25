@@ -52,7 +52,7 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 
 
   🎉
-I am a student member of MMLab (MM for multimedia), and most of my work is also focused on multimedia as well as multimodal generative research, so I frequently contribute papers to conferences in the field of computer graphics and multimedia.
+I am a student member of MMLab (MM for multimedia), and most of my work is also focused on multimedia as well as multimodal generative research, so I frequently contribute papers to journals and conferences in the field of computer graphics and multimedia.
 🎉
 
 
