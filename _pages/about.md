@@ -56,9 +56,9 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 🎉
 
 
-- [Diffusion Model-Based Image Editing: A Survey](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods)
+- [Diffusion Model-Based Image Editing: A Survey](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) (GitHub 250+ stars)
 
-  Yi Huang\*, **Jiancheng Huang\***, Yifan Liu, Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao
+  Yi Huang\*, **Jiancheng Huang\***, Yifan Liu, Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao (* indicates equal contribution)
 
   arXiv Preprint 2023 (Under Review of TPAMI)
   
@@ -106,11 +106,11 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   🎉
 
-- [GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning](https://gpt4motion.github.io/)
+- [GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning](https://gpt4motion.github.io/) (GitHub 100+ stars)
 
   Jiaxi Lv, Yi Huang, Mingfu Yan, **Jiancheng Huang**, et. al.
 
-  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops (Best Workshop Paper Candidate)
 
   🎉
   
