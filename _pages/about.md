@@ -27,7 +27,8 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 
 # 🔥 News
 - *2024.04*: I am awarded the **Outstanding Graduate Student of Chinese Academy of Sciences, Outstanding Graduate Student of Beijing Universities (中科院优秀毕业生、北京高校研究生优秀毕业生)**!
-- *2023.12*: In 2023, I had 9 articles accepted, 8 of which were first-authored (or equal contribution)
+- *2024.03*: Our paper GPT4Motion is the **Best Workshop Paper Candidate** in CVPR2024!
+- *2023.12*: From 2023 to now, I had 10 articles accepted, 5 of which were regular papers in the CCF/Tsinghua A/B journal or conference. Most of these papers are my first-authored. 
 - *2023.12*: I am awarded the **SIAT president scholarship**!
 - *2023.10*: I am awarded the **Best paper candidate** in PRICAI!
 - *2023.10*: I get my SSP offers from many companies. 🔬
@@ -43,7 +44,7 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 - *2019.10*: 🎉🎉 Again, we won the first prize in the Sort Bank Cup China Robotics Competition 2019. 🤖️ 
 - *2019.09*: 🎉🎉 I am awarded the second prize of Nanjing University scholarship!
 - *2018.10*: 🎉🎉 We won the first prize in the Sort Bank Cup China Robotics Competition 2018. 🤖️ 
-- *2017.07*: 🎉🎉 I scored 641 points in the 2017 college entrance exam (高考), ranking in the **Top 600 in Guangdong Province (Top 0.1% of all students in Guangdong，高考广东省理科前600名，佛山市前30名)**. 
+- *2017.07*: 🎉🎉 I scored 641 points in the 2017 college entrance exam (高考), ranking in the **Top 600 in Guangdong Province (Top 0.1% of all students in Guangdong，高考广东省理科前600名、佛山市前30名)**. 
 
 # 📝 Publications
 
