@@ -29,7 +29,7 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 - *2024.04*: I am awarded the **Outstanding Graduate Student of Chinese Academy of Sciences, Outstanding Graduate Student of Beijing Universities (中科院优秀毕业生、北京高校研究生优秀毕业生)**!
 - *2024.03*: Our paper GPT4Motion is the **Best Workshop Paper Candidate** in CVPR2024!
 - *2023.12*: From 2023 to now, I had 10 articles accepted, 5 of which were regular papers in the CCF/Tsinghua A/B journal or conference. Most of these papers are my first-authored. 
-- *2023.12*: I am awarded the **SIAT president scholarship**!
+- *2023.12*: I am awarded the **SIAT president scholarship (院长奖学金)**!
 - *2023.10*: I am awarded the **Best paper candidate** in PRICAI!
 - *2023.10*: I get my SSP offers from many top companies. 🔬
 - *2022.07*: I work with Noah's Ark Lab, HUAWEI, and dedicate myself to exploring AIGC algorithm and their applications in low-level and 3D. 🔬
