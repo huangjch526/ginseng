@@ -31,7 +31,7 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 - *2023.12*: From 2023 to now, I had 10 articles accepted, 5 of which were regular papers in the CCF/Tsinghua A/B journal or conference. Most of these papers are my first-authored. 
 - *2023.12*: I am awarded the **SIAT president scholarship**!
 - *2023.10*: I am awarded the **Best paper candidate** in PRICAI!
-- *2023.10*: I get my SSP offers from many companies. 🔬
+- *2023.10*: I get my SSP offers from many top companies. 🔬
 - *2022.07*: I work with Noah's Ark Lab, HUAWEI, and dedicate myself to exploring AIGC algorithm and their applications in low-level and 3D. 🔬
 - *2022.06*: 👨‍🎓👨‍🎓 I am awarded the outstanding graduate student award of UCAS!
 - *2021.07*: 👨‍🎓👨‍🎓 I got my bachelor’s degree and got an **outstanding graduation thesis award -- Grand prize (Top 0.5% of all bachelors in NJU, only 10+ bachelors got this prize，即南京大学优秀本科毕业论文特等奖)**!
@@ -43,7 +43,8 @@ My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my seco
 - *2020.09*: 🎉🎉 Again, I am awarded the second prize of Nanjing University scholarship!
 - *2019.10*: 🎉🎉 Again, we won the first prize in the Sort Bank Cup China Robotics Competition 2019. 🤖️ 
 - *2019.09*: 🎉🎉 I am awarded the second prize of Nanjing University scholarship!
-- *2018.10*: 🎉🎉 We won the first prize in the Sort Bank Cup China Robotics Competition 2018. 🤖️ 
+- *2018.10*: 🎉🎉 We won the first prize in the Sort Bank Cup China Robotics Competition 2018. 🤖️
+- *2018.09*: 🎉🎉 I become a member of the Robotics Lab belonging to the Lamda group at NJU. 🤖️
 - *2017.07*: 🎉🎉 I scored 641 points in the 2017 college entrance exam (高考), ranking in the **Top 600 in Guangdong Province (Top 0.1% of all students in Guangdong，高考广东省理科前600名、佛山市前30名)**. 
 
 # 📝 Publications
