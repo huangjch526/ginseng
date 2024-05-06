@@ -23,7 +23,7 @@ My research interests include deep learning, computer vision, and image enhancem
 
 > 📢📢📢 <font color=red>I am looking for more close friends in research.</font> If you would like to discuss AIGC or diffusion models with me, please feel free to [contact me](mailto:jc.huang@siat.ac.cn). 😊
 
-My first mentor is [Shifeng Chen](https://people.ucas.ac.cn/~sfchen) and my second mentor is [Chao Dong](https://people.ucas.ac.cn/~chaodong). I also work with my coauthors such as [Donghao Zhou](https://correr-zhou.github.io/), [Chaoqi Chen](https://chaoqichen.github.io/), Yifan Liu, Jaixi Lv, Yi Huang, [Wei Xiong](https://wxiong.me/), [He Zhang](https://sites.google.com/site/hezhangsprinter/), [Liangliang Cao](http://llcao.net/), [Yizhou Yu](https://i.cs.hku.hk/~yzyu/), and [Jianzhuang Liu](https://teacher.ucas.ac.cn/~jzliu#%20191067).
+My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://people.ucas.ac.cn/~chaodong). Our Lab is directed by Professor [Xiaoou Tang](https://people.ucas.edu.cn/~0017056?language=en) and [Yu Qiao](https://mmlab.siat.ac.cn/yuqiao). I also work with my coauthors such as [Donghao Zhou](https://correr-zhou.github.io/), [Chaoqi Chen](https://chaoqichen.github.io/), Yifan Liu, Jaixi Lv, Yi Huang, [Wei Xiong](https://wxiong.me/), [He Zhang](https://sites.google.com/site/hezhangsprinter/), [Liangliang Cao](http://llcao.net/), [Yizhou Yu](https://i.cs.hku.hk/~yzyu/), and [Jianzhuang Liu](https://teacher.ucas.ac.cn/~jzliu#%20191067).
 
 # 🔥 News
 - *2024.04*: I am awarded the **Outstanding Graduate Student of Chinese Academy of Sciences, Outstanding Graduate Student of Beijing Universities (中科院优秀毕业生、北京高校研究生优秀毕业生)**!
