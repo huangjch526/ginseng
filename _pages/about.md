@@ -59,7 +59,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 🎉
 
 
-- [Diffusion Model-Based Image Editing: A Survey](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) (GitHub 250+ stars)
+- [Diffusion Model-Based Image Editing: A Survey](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) (GitHub 280+ stars)
 
   Yi Huang\*, **Jiancheng Huang\***, Yifan Liu, Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao (* indicates equal contribution)
 
