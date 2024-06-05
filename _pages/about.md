@@ -74,7 +74,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   **Jiancheng Huang**, Donghao Zhou, Shifeng Chen 
 
-  IEEE Transactions on Information Forensics and Security. (TIFS) \| SCI Q1 Top \| CCF-A \| Tsinghua list A (GitHub 50+ stars)
+  IEEE Transactions on Information Forensics and Security (TIFS) \| SCI Q1 Top \| CCF-A \| Tsinghua list A (GitHub 50+ stars)
 
   🎉
   
