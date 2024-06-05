@@ -26,6 +26,7 @@ My research interests include deep learning, computer vision, and image enhancem
 My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://people.ucas.ac.cn/~chaodong). Our Lab is directed by Professor [Xiaoou Tang](https://people.ucas.edu.cn/~0017056?language=en) and [Yu Qiao](https://mmlab.siat.ac.cn/yuqiao). I also work with my coauthors such as [Donghao Zhou](https://correr-zhou.github.io/), [Chaoqi Chen](https://chaoqichen.github.io/), Yifan Liu, Jaixi Lv, Yi Huang, [Wei Xiong](https://wxiong.me/), [He Zhang](https://sites.google.com/site/hezhangsprinter/), [Liangliang Cao](http://llcao.net/), [Yizhou Yu](https://i.cs.hku.hk/~yzyu/), and [Jianzhuang Liu](https://teacher.ucas.ac.cn/~jzliu#%20191067).
 
 # 🔥 News
+- *2024.06*: My first-authored paper, IFAST, is accepted by TIFS (CCF A and SCI Q1 Top)!
 - *2024.04*: I am awarded the **Outstanding Graduate Student of Chinese Academy of Sciences, Outstanding Graduate Student of Beijing Universities (中科院优秀毕业生、北京高校研究生优秀毕业生)**!
 - *2024.03*: Our paper GPT4Motion is the **Best Workshop Paper Candidate** in CVPR2024!
 - *2023.12*: From 2023 to now, I had 10 articles accepted, 6 of which were regular papers in the CCF/Tsinghua list A/B journal/conference. Most of these papers are my first-authored. 
@@ -66,6 +67,14 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   arXiv Preprint 2023 (Under Review of TPAMI)
   
 -[[量子位]](https://mp.weixin.qq.com/s/4efSWtpA2RMN7tVOGTYfxw) [[机器之心]](https://mp.weixin.qq.com/s/bupEHVZetu0IUiJmmQjr6g) [[新智元]](https://mp.weixin.qq.com/s/7skCBhRSAcevR85ooW9F4g) [[我爱计算机视觉]](https://mp.weixin.qq.com/s/MFbCt0XfOf9fV0YbdkmR6g) [[专知]](https://mp.weixin.qq.com/s/eztg0R2bD8IaUG3c9i8ZXg)
+
+  🎉
+
+- [IFAST: Weakly Supervised Interpretable Face Anti-spoofing from Single-shot Binocular NIR Images]
+
+  **Jiancheng Huang**, Donghao Zhou, Shifeng Chen 
+
+  IEEE Transactions on Information Forensics and Security. (TIFS) \| SCI Q1 Top \| CCF-A \| Tsinghua list A (GitHub 50+ stars)
 
   🎉
   
@@ -146,14 +155,6 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   Yi Huang, Yu Dong, He Zhang, **Jiancheng Huang**, Shifeng Chen
 
   IEEE Transactions on Consumer Electronics (TCE) \| SCI Q2
-
-  🎉
-
-- [IFAST: Weakly Supervised Interpretable Face Anti-spoofing from Single-shot Binocular NIR Images]
-
-  **Jiancheng Huang**, Donghao Zhou, Shifeng Chen 
-
-  arXiv Preprint 2023 (Under Review) (GitHub 50+ stars)
 
   🎉
 
