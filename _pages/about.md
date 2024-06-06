@@ -29,7 +29,7 @@ My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://peop
 - *2024.06*: My first-authored paper, IFAST, is accepted by TIFS (CCF A and SCI Q1 Top)!
 - *2024.04*: I am awarded the **Outstanding Graduate Student of Chinese Academy of Sciences, Outstanding Graduate Student of Beijing Universities (中科院优秀毕业生、北京高校研究生优秀毕业生)**!
 - *2024.03*: Our paper GPT4Motion is the **Best Workshop Paper Candidate** in CVPR2024!
-- *2023.12*: From 2023 to now, I had 10 articles accepted, 6 of which were regular papers in the CCF/Tsinghua list A/B journal/conference. Most of these papers are my first-authored. 
+- *2024.03*: From 2023 to now, I had 12 articles accepted, 7 of which were regular papers in the CCF/Tsinghua list A/B journal/conference. Most of these papers are my first-authored. 
 - *2023.12*: I am awarded the **SIAT president scholarship (院长奖学金)**!
 - *2023.10*: I am awarded the **Best Paper Candidate** in PRICAI (Tsinghua list B in Mathematics)!
 - *2023.10*: I get my SSP offers from many top companies. 🔬
@@ -147,6 +147,14 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   Yifan Liu\*, **Jiancheng Huang\***, et. al. (\* indicates equal contribution)
 
   IEEE Signal Processing Letters (SPL) \| SCI Q2 \| Tsinghua list B
+
+  🎉
+
+- [MambaDW: Semantic-Aware Mamba for Document Watermark Removal]
+
+  Yifan Liu, Mingfu Yan, **Jiancheng Huang**, et. al.
+  
+  Computer Graphics International (CGI) \| Tsinghua list B
 
   🎉
 
