@@ -26,6 +26,7 @@ My research interests include deep learning, computer vision, and image enhancem
 My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://people.ucas.ac.cn/~chaodong). Our Lab is directed by Professor [Xiaoou Tang](https://people.ucas.edu.cn/~0017056?language=en) and [Yu Qiao](https://mmlab.siat.ac.cn/yuqiao). I also work with my coauthors such as [Donghao Zhou](https://correr-zhou.github.io/), [Chaoqi Chen](https://chaoqichen.github.io/), [Lin Ma](https://scholar.google.com/citations?user=DAn1pA4AAAAJ&hl=zh-CN), [Wei Xiong](https://wxiong.me/), [He Zhang](https://sites.google.com/site/hezhangsprinter/), [Liangliang Cao](http://llcao.net/), [Pheng Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN), [Zequn Jie](https://scholar.google.com/citations?user=4sKGNB0AAAAJ&hl=zh-CN), [Yizhou Yu](https://i.cs.hku.hk/~yzyu/), and [Jianzhuang Liu](https://teacher.ucas.ac.cn/~jzliu#%20191067).
 
 # 🔥 News
+- *2024.07*: My first-authored paper, MagicFight, is accepted by ACM MM (CCF A)!
 - *2024.06*: My first-authored paper, IFAST, is accepted by TIFS (CCF A and SCI Q1 Top)!
 - *2024.04*: I am awarded the **Outstanding Graduate Student of Chinese Academy of Sciences, Outstanding Graduate Student of Beijing Universities (中科院优秀毕业生、北京高校研究生优秀毕业生)**!
 - *2024.03*: Our paper GPT4Motion is awarded the **Best Paper Runner-Up** in PBDL@CVPR 2024!
@@ -68,6 +69,14 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   
 -[[量子位]](https://mp.weixin.qq.com/s/4efSWtpA2RMN7tVOGTYfxw) [[机器之心]](https://mp.weixin.qq.com/s/bupEHVZetu0IUiJmmQjr6g) [[新智元]](https://mp.weixin.qq.com/s/7skCBhRSAcevR85ooW9F4g) [[我爱计算机视觉]](https://mp.weixin.qq.com/s/MFbCt0XfOf9fV0YbdkmR6g) [[专知]](https://mp.weixin.qq.com/s/eztg0R2bD8IaUG3c9i8ZXg)
 
+  🎉
+
+- [MagicFight: Personalized Martial Arts Combat Video Generation]
+
+  **Jiancheng Huang**, et. al. 
+
+  ACM Multimedia (MM) \| CCF-A 
+  
   🎉
 
 - [IFAST: Weakly Supervised Interpretable Face Anti-spoofing from Single-shot Binocular NIR Images]
