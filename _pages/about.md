@@ -114,7 +114,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   **Jiancheng Huang**, et. al. 
 
-  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) \| CCF-B
+  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) \| CCF-B \| Tsinghua list A
 
   🎉
 
