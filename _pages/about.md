@@ -60,7 +60,6 @@ My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://peop
 I am a student member of MMLab (MM for multimedia), and most of my work is also focused on multimedia as well as multimodal generative research, so I frequently contribute papers to journals and conferences in the field of computer graphics and multimedia.
 🎉
 
-
 - [Diffusion Model-Based Image Editing: A Survey](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) (GitHub 310+ stars)
 
   Yi Huang\*, **Jiancheng Huang\***, Yifan Liu, Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao (* indicates equal contribution)
@@ -159,6 +158,14 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   🎉
 
+- [Distribution-Aware Calibration for Object Detection with Noisy Bounding Boxes]
+
+  Donghao Zhou, Jialin Li, Jinpeng Li, **Jiancheng Huang**, Qiang Nie, Yong liu, Bin-Bin Gao, Qiong Wang, Pheng-Ann Heng, Guangyong Chen
+
+  British Machine Vision Conference (BMVC) \| Tsinghua list B
+ 
+  🎉
+
 - [MambaDW: Semantic-Aware Mamba for Document Watermark Removal]
 
   Yifan Liu, Mingfu Yan, **Jiancheng Huang**, et. al.
@@ -194,14 +201,6 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 - [Graph Edit Distance Learning via Different Attention]
 
   Jiaxi Lv, Liang Zhang, Yi Huang, **Jiancheng Huang**, Shifeng Chen
-
-  arXiv Preprint 2023 (Under Review)
-
-  🎉
-
-- [Distribution-Aware Calibration for Object Detection with Noisy Bounding Boxes]
-
-  Donghao Zhou, Jialin Li, Jinpeng Li, **Jiancheng Huang**, Qiang Nie, Yong liu, Bin-Bin Gao, Qiong Wang, Pheng-Ann Heng, Guangyong Chen
 
   arXiv Preprint 2023 (Under Review)
 
