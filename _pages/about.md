@@ -60,7 +60,7 @@ My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://peop
 I am a student member of MMLab (MM for multimedia), and most of my work is also focused on multimedia as well as multimodal generative research, so I frequently contribute papers to journals and conferences in the field of computer graphics and multimedia.
 🎉
 
-- [Diffusion Model-Based Image Editing: A Survey](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) (GitHub 310+ stars)
+- [Diffusion Model-Based Image Editing: A Survey](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) (GitHub 380+ stars)
 
   Yi Huang\*, **Jiancheng Huang\***, Yifan Liu, Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao (* indicates equal contribution)
 
@@ -74,7 +74,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   **Jiancheng Huang**, et. al. 
 
-  ACM Multimedia (MM) \| CCF-A 
+  ACM International Conference on Multimedia (ACMMM) \| CCF-A 
   
   🎉
 
@@ -126,7 +126,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   🎉
 
-- [GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning](https://gpt4motion.github.io/) (GitHub 100+ stars)
+- [GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning](https://gpt4motion.github.io/) (GitHub 110+ stars)
 
   Jiaxi Lv, Yi Huang, Mingfu Yan, **Jiancheng Huang**, et. al.
 
@@ -178,7 +178,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   Yi Huang, Yu Dong, He Zhang, **Jiancheng Huang**, Shifeng Chen
 
-  IEEE Transactions on Consumer Electronics (TCE) \| SCI Q2
+  IEEE Transactions on Consumer Electronics (TCE) \| SCI Q1
 
   🎉
 
