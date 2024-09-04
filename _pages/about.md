@@ -19,13 +19,14 @@ redirect_from:
 
 I am currently a M.Sc. student at [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) <img src='images/logo_UCAS.png' style='width: 1.1em;'> ([Ranking NO.69 in US.News](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences)), and doing my research at [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/). I am now working in the CUHK@MMLAB in Shenzhen named [SIAT-MMLAB](https://english.siat.ac.cn/), which was founded and directed by Professor [Xiaoou Tang](https://people.ucas.edu.cn/~0017056?language=en), Yu Qiao, and Chao Dong. I received my B.E. degree from [Nanjing University (NJU)]([https://english.ucas.ac.cn/](https://www.nju.edu.cn/)) <img src='images/logo_NJU.png' style='width: 1.1em;'> ([Ranking NO.73 in THE, NO.98 in US.News, and NO.121 in QS](https://en.wikipedia.org/wiki/Nanjing_University)), Nanjing, China in 2021. My undergraduate and graduate universities are both ranked among the top 100 universities in the world.
 
-My research interests include deep learning, computer vision, and image enhancement. Recently, I have focused on AIGC, low-level tasks, image editing, image generation, video generation, and 3D generation. I have explored AIGC methods such as Diffusion Models for a long time (from 2022.7 to now). I work on designing new kinds of Diffusion Models and their applications for various fields, aiming to promote the efficiency and flexibility of Diffusion Models used in the real world. I am now an IEEE member, ACM member, IEEE SPS member and CCF member. **I have served as a reviewer many times for top conferences or journals such as NeurIPS (2024), ICLR (2025), ICCV (2023), ECCV (2024), ACM MM (2024), ICME (2024), ICMR (2024), Neural Networks, and MMM (2023).**
+My research interests include deep learning, computer vision, and image enhancement. Recently, I have focused on AIGC, low-level tasks, image editing, image generation, video generation, and 3D generation. I have explored AIGC methods such as Diffusion Models for a long time (from 2022.7 to now). I work on designing new kinds of Diffusion Models and their applications for various fields, aiming to promote the efficiency and flexibility of Diffusion Models used in the real world. I am now an IEEE member, ACM member, IEEE SPS member and CCF member. **I have been invited and served as a reviewer many times for top conferences or journals such as NeurIPS (2024), ICLR (2025), ICCV (2023), ECCV (2024), ACM MM (2024), ICME (2024), ICMR (2024), Neural Networks (many times), and MMM (2023).**
 
 > 📢📢📢 <font color=red>I am looking for more close friends in research.</font> If you would like to discuss AIGC or diffusion models with me, please feel free to [contact me](mailto:jc.huang@siat.ac.cn). 😊
 
 My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://people.ucas.ac.cn/~chaodong). Our Lab is directed by Professor [Xiaoou Tang](https://people.ucas.edu.cn/~0017056?language=en) and [Yu Qiao](https://mmlab.siat.ac.cn/yuqiao). I also work with my coauthors such as [Donghao Zhou](https://correr-zhou.github.io/), [Chaoqi Chen](https://chaoqichen.github.io/), [Lin Ma](https://scholar.google.com/citations?user=DAn1pA4AAAAJ&hl=zh-CN), [Wei Xiong](https://wxiong.me/), [He Zhang](https://sites.google.com/site/hezhangsprinter/), [Liangliang Cao](http://llcao.net/), [Pheng Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN), [Zequn Jie](https://scholar.google.com/citations?user=4sKGNB0AAAAJ&hl=zh-CN), [Yizhou Yu](https://i.cs.hku.hk/~yzyu/), and [Jianzhuang Liu](https://teacher.ucas.ac.cn/~jzliu#%20191067).
 
 # 🔥 News
+- *2024.08*: I am now an engineer of MM in Meituan Inc. 
 - *2024.07*: My first-authored paper, MagicFight, is accepted by ACM MM (CCF A)!
 - *2024.06*: My first-authored paper, IFAST, is accepted by TIFS (CCF A and SCI Q1 Top)!
 - *2024.04*: I am awarded the **Outstanding Graduate Student of Chinese Academy of Sciences, Outstanding Graduate Student of Beijing Universities (中科院优秀毕业生、北京高校研究生优秀毕业生)**!
@@ -46,8 +47,8 @@ My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://peop
 - *2019.10*: 🎉🎉 Again, we won the first prize in the Sort Bank Cup China Robotics Competition 2019. 🤖️ 
 - *2019.09*: 🎉🎉 I am awarded the second prize of Nanjing University scholarship!
 - *2018.10*: 🎉🎉 We won the first prize in the Sort Bank Cup China Robotics Competition 2018. 🤖️
-- *2018.09*: 🎉🎉 I become a member of the Robotics Lab belonging to the Lamda group at NJU. 🤖️
-- *2017.07*: 🎉🎉 I scored 641 points in the 2017 college entrance exam (高考), ranking in the **Top 600 in Guangdong Province (Top 0.1% of all students in Guangdong，高考广东省理科前600名、佛山市前30名，曾获佛山市语文单科状元)**. 
+- *2018.09*: 🎉🎉 I become a member of the Robotics Lab belonging to the Lamda group at NJU (leading by Zhi-Hua Zhou). 🤖️
+- *2017.07*: 🎉🎉 I scored 641 points in the 2017 college entrance exam (高考), ranking in the **Top 600 in Guangdong Province (Top 0.1% of all students in Guangdong，高考广东省理科前600名、佛山市前30名，曾获佛山市语文单科状元，出分当天接到中科大、南京大学、人民大学等高校招生办的多次电话)**. 
 
 # 📝 Publications
 
@@ -60,7 +61,7 @@ My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://peop
 I am a student member of MMLab (MM for multimedia), and most of my work is also focused on multimedia as well as multimodal generative research, so I frequently contribute papers to journals and conferences in the field of computer graphics and multimedia.
 🎉
 
-- [Diffusion Model-Based Image Editing: A Survey](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) (GitHub 380+ stars)
+- [Diffusion Model-Based Image Editing: A Survey](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) (GitHub 400+ stars)
 
   Yi Huang\*, **Jiancheng Huang\***, Yifan Liu, Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao (* indicates equal contribution)
 
