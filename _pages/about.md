@@ -26,11 +26,11 @@ My research interests include deep learning, computer vision, and image enhancem
 My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://people.ucas.ac.cn/~chaodong). Our Lab is directed by Professor [Xiaoou Tang](https://people.ucas.edu.cn/~0017056?language=en) and [Yu Qiao](https://mmlab.siat.ac.cn/yuqiao). I also work with my coauthors such as [Donghao Zhou](https://correr-zhou.github.io/), [Chaoqi Chen](https://chaoqichen.github.io/), [Lin Ma](https://scholar.google.com/citations?user=DAn1pA4AAAAJ&hl=zh-CN), [Wei Xiong](https://wxiong.me/), [He Zhang](https://sites.google.com/site/hezhangsprinter/), [Liangliang Cao](http://llcao.net/), [Pheng Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN), [Zequn Jie](https://scholar.google.com/citations?user=4sKGNB0AAAAJ&hl=zh-CN), [Yizhou Yu](https://i.cs.hku.hk/~yzyu/), and [Jianzhuang Liu](https://teacher.ucas.ac.cn/~jzliu#%20191067).
 
 # 🔥 News
-- *2024.08*: I am now an engineer of MM in Meituan Inc. 
-- *2024.07*: My first-authored paper, MagicFight, is accepted by ACM MM (CCF A)!
-- *2024.06*: My first-authored paper, IFAST, is accepted by TIFS (CCF A and SCI Q1 Top)!
+- *2024.08*: I am now a research engineer at MM of Meituan Inc. 
+- *2024.07*: My first-authored paper, MagicFight, is accepted by ACM MM (CCF-A)!
+- *2024.06*: My first-authored paper, IFAST, is accepted by TIFS (CCF-A and SCI Q1 Top)!
 - *2024.04*: I am awarded the **Outstanding Graduate Student of Chinese Academy of Sciences, Outstanding Graduate Student of Beijing Universities (中科院优秀毕业生、北京高校研究生优秀毕业生)**!
-- *2024.03*: Our paper GPT4Motion is awarded the **Best Paper Runner-Up** in PBDL@CVPR 2024!
+- *2024.03*: Our paper GPT4Motion is awarded the **Best Paper Runner-Up (最佳论文亚军)** in PBDL@CVPR 2024!
 - *2024.03*: From 2023 to now, I had 12 articles accepted, 7 of which were regular papers in the CCF/Tsinghua list A/B journal/conference. Most of these papers are my first-authored. 
 - *2023.12*: I am awarded the **SIAT president scholarship (院长奖学金)**!
 - *2023.10*: I am awarded the **Best Paper Candidate** in PRICAI (Tsinghua list B in Mathematics)!
@@ -48,7 +48,7 @@ My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://peop
 - *2019.09*: 🎉🎉 I am awarded the second prize of Nanjing University scholarship!
 - *2018.10*: 🎉🎉 We won the first prize in the Sort Bank Cup China Robotics Competition 2018. 🤖️
 - *2018.09*: 🎉🎉 I become a member of the Robotics Lab belonging to the Lamda group at NJU (leading by Zhi-Hua Zhou). 🤖️
-- *2017.07*: 🎉🎉 I scored 641 points in the 2017 college entrance exam (高考), ranking in the **Top 600 in Guangdong Province (Top 0.1% of all students in Guangdong，高考广东省理科前600名、佛山市前30名，曾获佛山市语文单科状元，出分当天接到中科大、南京大学、人民大学等高校招生办的多次电话)**. 
+- *2017.07*: 🎉🎉 I scored 641 points in the 2017 college entrance exam (高考), ranking in the **Top 600 in Guangdong Province (Top 0.1% of all students in Guangdong，高考广东省理科前600名、佛山市前30名，曾获佛山市语文单科状元，出分当天接到中科大、南京大学等华东五校和人民大学招生办的多次电话)**. 
 
 # 📝 Publications
 
@@ -65,7 +65,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   Yi Huang\*, **Jiancheng Huang\***, Yifan Liu, Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao (* indicates equal contribution)
 
-  arXiv Preprint 2023 (Under Review of TPAMI)
+  arXiv Preprint 2024 (Major Revision of TPAMI)
   
 -[[量子位]](https://mp.weixin.qq.com/s/4efSWtpA2RMN7tVOGTYfxw) [[机器之心]](https://mp.weixin.qq.com/s/bupEHVZetu0IUiJmmQjr6g) [[新智元]](https://mp.weixin.qq.com/s/7skCBhRSAcevR85ooW9F4g) [[我爱计算机视觉]](https://mp.weixin.qq.com/s/MFbCt0XfOf9fV0YbdkmR6g) [[专知]](https://mp.weixin.qq.com/s/eztg0R2bD8IaUG3c9i8ZXg)
 
@@ -75,7 +75,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   **Jiancheng Huang**, et. al. 
 
-  ACM International Conference on Multimedia (ACMMM) \| CCF-A 
+  ACM International Conference on Multimedia (ACMMM) \| CCF-A \| CAAI-A
   
   🎉
 
@@ -83,7 +83,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   **Jiancheng Huang**, Donghao Zhou, Shifeng Chen 
 
-  IEEE Transactions on Information Forensics and Security (TIFS) \| SCI Q1 Top \| CCF-A \| Tsinghua list A (GitHub 50+ stars)
+  IEEE Transactions on Information Forensics and Security (TIFS) \| SCI Q1 Top \| CCF-A \| Tsinghua list A \| CAAI-A (GitHub 50+ stars)
 
   🎉
   
@@ -91,7 +91,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   Yi Huang\*, **Jiancheng Huang\***, et. al. (\* indicates equal contribution)
 
-  IEEE Transaction on Multimedia (TMM) \| SCI Q1 Top \| Tsinghua list A
+  IEEE Transaction on Multimedia (TMM) \| SCI Q1 Top \| Tsinghua list A \| CAAI-A
 
   🎉
 
@@ -231,6 +231,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 - *2018.07* &ensp; Robot motion algorithm research. 
 
 # 👨‍💻 Internships
+- *2024.07 - Now* &ensp; Research Engineer, MM, Meituan, Shenzhen, China
 - *2022.07 - 2023.01* &ensp; Research Collaborator, Noah's Ark Lab, HUAWEI, Shenzhen, China
 - *2021.04 - 2021.08* &ensp; Research Assistant, [SIAT](https://english.siat.ac.cn/), Shenzhen, China
 - *2018.06 - 2019.10* &ensp; Team Captain, Robotics Lab of NJU, Nanjing, China
