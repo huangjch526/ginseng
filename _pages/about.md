@@ -182,6 +182,22 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   IEEE Transactions on Consumer Electronics (TCE) \| SCI Q1
 
   🎉
+  
+- [Matten: Video Generation with Mamba-Attention]
+
+  **Jiancheng Huang**, et. al.
+
+  arXiv Preprint 2024 (Under Review)
+
+  🎉
+
+- [MRStyle: A Unified Framework for Color Style Transfer with Multi-Modality Reference]
+
+  **Jiancheng Huang**, et. al.
+
+  arXiv Preprint 2024 (Under Review)
+
+  🎉
 
 - [SpecRef: A Fast Training-free Baseline of Specific Reference-Condition Real Image Editing]
 
