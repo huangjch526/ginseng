@@ -96,6 +96,16 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   🎉
 
+- [MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models]
+
+  Donghao Zhou\*, **Jiancheng Huang\***, et. al. (\* indicates equal contribution)
+
+  arXiv Preprint 2024 (Under Review)
+  
+  -[[arxiv]](https://arxiv.org/abs/2410.13370) [[project]](https://correr-zhou.github.io/MagicTailor/)
+
+  🎉
+
 - [SBCR: Stochasticity Beats Content Restriction Problem in Training and Tuning Free Image Editing]
 
   **Jiancheng Huang**, et. al. 
