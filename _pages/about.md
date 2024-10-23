@@ -94,15 +94,17 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   IEEE Transaction on Multimedia (TMM) \| SCI Q1 Top \| Tsinghua list A \| CAAI-A
 
+  -[[公众号]](https://mp.weixin.qq.com/s/coGsWInSihY6HC4C4M79rQ))
+
   🎉
 
-- [MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models]
+- [MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models](https://correr-zhou.github.io/MagicTailor/)
 
   Donghao Zhou\*, **Jiancheng Huang\***, et. al. (\* indicates equal contribution)
 
   arXiv Preprint 2024 (Under Review)
   
-  -[[arxiv]](https://arxiv.org/abs/2410.13370) [[project]](https://correr-zhou.github.io/MagicTailor/)
+  -[[arxiv]](https://arxiv.org/abs/2410.13370) [[project]](https://correr-zhou.github.io/MagicTailor/) [[AIGC公众号]](https://mp.weixin.qq.com/s/WF8jioEV8P6cRT_mXg3tkw)
 
   🎉
 
@@ -143,6 +145,8 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   Jiaxi Lv, Yi Huang, Mingfu Yan, **Jiancheng Huang**, et. al.
 
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops (Best Paper Runner-Up)
+
+  [[机器之心]](https://mp.weixin.qq.com/s/bupEHVZetu0IUiJmmQjr6g)
 
   🎉
   
@@ -200,6 +204,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   arXiv Preprint 2024 (Under Review)
 
+  [[AI公众号]](https://mp.weixin.qq.com/s/N1uYUu2D99JrgnVilXk2Vg)
   🎉
 
 - [MRStyle: A Unified Framework for Color Style Transfer with Multi-Modality Reference]
@@ -207,7 +212,8 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   **Jiancheng Huang**, et. al.
 
   arXiv Preprint 2024 (Under Review)
-
+  
+  [[AI公众号]](https://mp.weixin.qq.com/s/UlEkTOA5iWkUrR30Cag4vg)
   🎉
 
 - [SpecRef: A Fast Training-free Baseline of Specific Reference-Condition Real Image Editing]
