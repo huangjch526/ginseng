@@ -31,7 +31,7 @@ My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://peop
 - *2024.07*: I won the Invention Venture Award for Innovation from the China Invention Association.
 - *2024.07*: My first-authored paper, MagicFight, is accepted by ACM MM (CCF-A)!
 - *2024.06*: My first-authored paper, IFAST, is accepted by TIFS (CCF-A and SCI Q1 Top)!
-- *2024.04*: I am awarded the **Outstanding Graduate Student of Chinese Academy of Sciences, Outstanding Graduate Student of Beijing Universities ([中科院优秀毕业生、北京高校研究生优秀毕业生](https://mp.weixin.qq.com/s?__biz=MzA4NzI3NTYyNA==&mid=2652899619&idx=1&sn=c6aaad6a5e947b011b115a8cfd81dd4f&chksm=8aafc6b28420ec96235b4d2d17898d54acf9d8eda760dec359c5e6856cb4fb044486be8e9d40&scene=27)**!
+- *2024.04*: I am awarded the **Outstanding Graduate Student of Chinese Academy of Sciences, Outstanding Graduate Student of Beijing Universities ([中科院优秀毕业生、北京高校研究生优秀毕业生](https://mp.weixin.qq.com/s?__biz=MzA4NzI3NTYyNA==&mid=2652899619&idx=1&sn=c6aaad6a5e947b011b115a8cfd81dd4f&chksm=8aafc6b28420ec96235b4d2d17898d54acf9d8eda760dec359c5e6856cb4fb044486be8e9d40&scene=27))**!
 - *2024.03*: Our paper GPT4Motion is awarded the **Best Paper Runner-Up (最佳论文亚军)** in PBDL@CVPR 2024!
 - *2024.03*: From 2023 to now, I had 12 articles accepted, 7 of which were regular papers in the CCF/Tsinghua list A/B journal/conference. Most of these papers are my first-authored. 
 - *2023.12*: I am awarded the **SIAT president scholarship (院长奖学金)**!
@@ -57,7 +57,6 @@ My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://peop
 <p align="center">
   <img src="images/survey.png" alt="image" style="width:1000px;">
 </p>
-
 
   🎉
 I am a student member of MMLab (MM for multimedia), and most of my work is also focused on multimedia as well as multimodal generative research, so I frequently contribute papers to journals and conferences in the field of computer graphics and multimedia.
@@ -214,6 +213,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   arXiv Preprint 2024 (Under Review)
 
   [[AI公众号]](https://mp.weixin.qq.com/s/N1uYUu2D99JrgnVilXk2Vg)
+  
   🎉
 
 - [MRStyle: A Unified Framework for Color Style Transfer with Multi-Modality Reference]
@@ -231,6 +231,14 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   arXiv Preprint 2023 (Under Review) (GitHub 30+ stars)
 
+  🎉
+
+- [Pi-fusion: Physics-informed diffusion model for learning fluid dynamics]
+
+  Jing Qiu\*, **Jiancheng Huang\***, et. al. (\* indicates equal contribution)
+
+  arXiv Preprint 2024 (Under Review)
+  
   🎉
 
 - [Seal2Real: Prompt Prior Learning on Diffusion Model for Unsupervised Document Seal Data Generation and Realisation]
