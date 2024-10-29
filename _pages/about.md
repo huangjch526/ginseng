@@ -21,6 +21,8 @@ I am now a research engineer at MM of Meituan Inc. I was a M.Sc. student at [Uni
 
 My research interests include deep learning, computer vision, and image enhancement. Recently, I have focused on AIGC, low-level tasks, image editing, image generation, video generation, and 3D generation. I have explored AIGC methods such as Diffusion Models for a very long time (from 2022.7 to now). I work on designing new kinds of Diffusion Models and their applications for various fields, aiming to promote the efficiency and flexibility of Diffusion Models used in the real world. I am now an IEEE member, ACM member, IEEE SPS member and CCF member. **I have been invited and served as a reviewer many times for top conferences or journals such as NeurIPS (2024), ICLR (2025), ICCV (2023), ECCV (2024), ACM MM (2024), WACV (2025), ICME (2024), AISTATS (2025), ICMR (2024), Neural Networks (many times), and MMM (2023).**
 
+Google scholar citations
+
 <p align="center">
   <img src="images/cita.jpg" alt="image" style="width:500px;">
 </p>
