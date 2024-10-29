@@ -60,9 +60,10 @@ My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://peop
 
   🎉
 I am a student member of MMLab (MM for multimedia), and most of my work is also focused on multimedia as well as multimodal generative research, so I frequently contribute papers to journals and conferences in the field of computer graphics and multimedia.
+
 🎉
 
-- [Diffusion Model-Based Image Editing: A Survey](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) (GitHub 400+ stars)
+- [Diffusion Model-Based Image Editing: A Survey](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) (GitHub 400+ stars) (AIGC：图像编辑)
 
   Yi Huang\*, **Jiancheng Huang\***, Yifan Liu, Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao (* indicates equal contribution)
 
@@ -72,7 +73,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   🎉
 
-- [MagicFight: Personalized Martial Arts Combat Video Generation]
+- [MagicFight: Personalized Martial Arts Combat Video Generation] (AIGC：视频生成)
 
   **Jiancheng Huang**, et. al. 
 
@@ -80,7 +81,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   
   🎉
 
-- [IFAST: Weakly Supervised Interpretable Face Anti-spoofing from Single-shot Binocular NIR Images]
+- [IFAST: Weakly Supervised Interpretable Face Anti-spoofing from Single-shot Binocular NIR Images]  (AIGC：图像生成)
 
   **Jiancheng Huang**, Donghao Zhou, Shifeng Chen 
 
@@ -88,7 +89,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
  🎉
 
-- [Dual-Schedule Inversion: Tuning-Free Inversion for Real Image Faithful Reconstruction and Editing]
+- [Dual-Schedule Inversion: Tuning-Free Inversion for Real Image Faithful Reconstruction and Editing] (AIGC：图像编辑)
 
   **Jiancheng Huang**, et. al. 
 
@@ -96,7 +97,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   🎉
   
-- [WaveDM: Wavelet-Based Diffusion Models for Image Restoration]
+- [WaveDM: Wavelet-Based Diffusion Models for Image Restoration] (AIGC：生成式复原)
 
   Yi Huang\*, **Jiancheng Huang\***, et. al. (\* indicates equal contribution)
 
@@ -106,17 +107,17 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   🎉
 
-- [MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models](https://correr-zhou.github.io/MagicTailor/)
+- [MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models](https://correr-zhou.github.io/MagicTailor/) (AIGC：图像生成)
 
   Donghao Zhou\*, **Jiancheng Huang\***, et. al. (\* indicates equal contribution)
 
-  arXiv Preprint 2024 (Under Review)
+  arXiv Preprint 2024 (Under Review of ICLR)
   
   -[[arxiv]](https://arxiv.org/abs/2410.13370) [[project]](https://correr-zhou.github.io/MagicTailor/) [[AIGC公众号]](https://mp.weixin.qq.com/s/WF8jioEV8P6cRT_mXg3tkw)
 
   🎉
 
-- [SBCR: Stochasticity Beats Content Restriction Problem in Training and Tuning Free Image Editing]
+- [SBCR: Stochasticity Beats Content Restriction Problem in Training and Tuning Free Image Editing] (AIGC：图像编辑)
 
   **Jiancheng Huang**, et. al. 
 
@@ -124,7 +125,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   🎉
   
-- [Stable Diffusion already has a noisy style latent space]
+- [Stable Diffusion already has a noisy style latent space] (AIGC：图像编辑)
 
   **Jiancheng Huang**, et. al. 
 
@@ -132,7 +133,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   🎉
   
-- [Entwined Inversion: Tune-Free Inversion for Real Image Faithful Reconstruction and Editing]
+- [Entwined Inversion: Tune-Free Inversion for Real Image Faithful Reconstruction and Editing] (AIGC：图像编辑)
 
   **Jiancheng Huang**, et. al. 
 
@@ -140,7 +141,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   🎉
 
-- [BK-Editer: Body-Keeping Text-Conditioned Real Image Editing]
+- [BK-Editer: Body-Keeping Text-Conditioned Real Image Editing] (AIGC：图像编辑)
 
   **Jiancheng Huang**, et. al.
 
@@ -148,7 +149,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   🎉
 
-- [GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning](https://gpt4motion.github.io/) (GitHub 110+ stars)
+- [GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning](https://gpt4motion.github.io/) (GitHub 110+ stars) (AIGC：视频生成)
 
   Jiaxi Lv, Yi Huang, Mingfu Yan, **Jiancheng Huang**, et. al.
 
@@ -166,7 +167,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   🎉
   
-- [Bootstrap Diffusion Model Curve Estimation for High Resolution Low-Light Image Enhancement]
+- [Bootstrap Diffusion Model Curve Estimation for High Resolution Low-Light Image Enhancement] (AIGC：生成式复原)
   
   **Jiancheng Huang**, et. al.
 
@@ -174,7 +175,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   🎉
   
-- [DeSeal: Semantic-Aware Seal2Clear Attention for Document Seal Removal]
+- [DeSeal: Semantic-Aware Seal2Clear Attention for Document Seal Removal] (AIGC：生成式复原)
 
   Yifan Liu\*, **Jiancheng Huang\***, et. al. (\* indicates equal contribution)
 
@@ -190,7 +191,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
  
   🎉
 
-- [MambaDW: Semantic-Aware Mamba for Document Watermark Removal]
+- [MambaDW: Semantic-Aware Mamba for Document Watermark Removal] (AIGC：生成式复原)
 
   Yifan Liu, Mingfu Yan, **Jiancheng Huang**, et. al.
   
@@ -198,7 +199,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   🎉
 
-- [Learning Image-Adaptive Lookup Tables With Spatial Awareness for Image Harmonization]
+- [Learning Image-Adaptive Lookup Tables With Spatial Awareness for Image Harmonization] (AIGC：生成式复原)
 
   Yi Huang, Yu Dong, He Zhang, **Jiancheng Huang**, Shifeng Chen
 
@@ -206,7 +207,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   🎉
   
-- [Matten: Video Generation with Mamba-Attention]
+- [Matten: Video Generation with Mamba-Attention] (AIGC：视频生成)
 
   **Jiancheng Huang**, et. al.
 
@@ -216,7 +217,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   
   🎉
 
-- [MRStyle: A Unified Framework for Color Style Transfer with Multi-Modality Reference]
+- [MRStyle: A Unified Framework for Color Style Transfer with Multi-Modality Reference] (AIGC：图像编辑)
 
   **Jiancheng Huang**, et. al.
 
@@ -225,7 +226,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   [[AI公众号]](https://mp.weixin.qq.com/s/UlEkTOA5iWkUrR30Cag4vg)
   🎉
 
-- [SpecRef: A Fast Training-free Baseline of Specific Reference-Condition Real Image Editing]
+- [SpecRef: A Fast Training-free Baseline of Specific Reference-Condition Real Image Editing] (AIGC：图像编辑)
 
   Songyan Chen, **Jiancheng Huang\*** (\* indicates corresponding author)
 
@@ -241,7 +242,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   
   🎉
 
-- [Seal2Real: Prompt Prior Learning on Diffusion Model for Unsupervised Document Seal Data Generation and Realisation]
+- [Seal2Real: Prompt Prior Learning on Diffusion Model for Unsupervised Document Seal Data Generation and Realisation] (AIGC：图像生成)
 
   **Jiancheng Huang**, Yifan Liu, Shifeng Chen 
 
