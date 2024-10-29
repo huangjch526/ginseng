@@ -24,7 +24,7 @@ My research interests include deep learning, computer vision, and image enhancem
 Google scholar citations
 
 <p align="center">
-  <img src="images/cita.jpg" alt="image" style="width:500px;">
+  <img src="images/cita.jpg" alt="image" style="width:200px;">
 </p>
 
 > 📢📢📢 <font color=red>I am looking for more close friends in research.</font> If you would like to discuss AIGC or diffusion models with me, please feel free to [contact me](mailto:jc.huang@siat.ac.cn). 😊
