@@ -117,7 +117,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   Donghao Zhou\*, **Jiancheng Huang\***, et. al. (\* indicates equal contribution)
 
-  arXiv Preprint 2024 (Under Review of ICLR)
+  arXiv Preprint 2024 (Under Review)
   
   -[[arxiv]](https://arxiv.org/abs/2410.13370) [[project]](https://correr-zhou.github.io/MagicTailor/) [[AIGC公众号]](https://mp.weixin.qq.com/s/WF8jioEV8P6cRT_mXg3tkw)
 
