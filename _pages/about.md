@@ -71,7 +71,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
 - [Diffusion Model-Based Image Editing: A Survey](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) (GitHub 400+ stars) (AIGC：图像编辑)
 
-  Yi Huang\*, **Jiancheng Huang\***, Yifan Liu, Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao (* indicates equal contribution)
+  Yi Huang\*, **Ginseng Wong\***, Yifan Liu, Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao (* indicates equal contribution)
 
   arXiv Preprint 2024 (Major Revision of TPAMI)
   
@@ -81,7 +81,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
 - [MagicFight: Personalized Martial Arts Combat Video Generation] (AIGC：视频生成)
 
-  **Jiancheng Huang**, et. al. 
+  **Ginseng Wong**, et. al. 
 
   ACM International Conference on Multimedia (ACM MM) \| CCF-A \| CAAI-A
   
@@ -89,7 +89,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
 - [IFAST: Weakly Supervised Interpretable Face Anti-spoofing from Single-shot Binocular NIR Images]  (AIGC：图像生成)
 
-  **Jiancheng Huang**, Donghao Zhou, Shifeng Chen 
+  **Ginseng Wong**, Donghao Zhou, Shifeng Chen 
 
   IEEE Transactions on Information Forensics and Security (TIFS) \| SCI Q1 Top \| CCF-A \| Tsinghua list A \| CAAI-A (GitHub 50+ stars)
 
@@ -97,7 +97,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
 - [Dual-Schedule Inversion: Tuning-Free Inversion for Real Image Faithful Reconstruction and Editing] (AIGC：图像编辑)
 
-  **Jiancheng Huang**, et. al. 
+  **Ginseng Wong**, et. al. 
 
   IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) \| CAAI-B
 
@@ -105,7 +105,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   
 - [WaveDM: Wavelet-Based Diffusion Models for Image Restoration] (AIGC：生成式复原)
 
-  Yi Huang\*, **Jiancheng Huang\***, et. al. (\* indicates equal contribution)
+  Yi Huang\*, **Ginseng Wong\***, et. al. (\* indicates equal contribution)
 
   IEEE Transaction on Multimedia (TMM) \| SCI Q1 Top \| Tsinghua list A \| CAAI-A
 
@@ -115,7 +115,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
 - [MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models](https://correr-zhou.github.io/MagicTailor/) (AIGC：图像生成)
 
-  Donghao Zhou\*, **Jiancheng Huang\***, et. al. (\* indicates equal contribution)
+  Donghao Zhou\*, **Ginseng Wong\***, et. al. (\* indicates equal contribution)
 
   arXiv Preprint 2024 (Under Review)
   
@@ -125,7 +125,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
 - [SBCR: Stochasticity Beats Content Restriction Problem in Training and Tuning Free Image Editing] (AIGC：图像编辑)
 
-  **Jiancheng Huang**, et. al. 
+  **Ginseng Wong**, et. al. 
 
   ACM International Conference on Multimedia Retrieval (ICMR) \| CCF-B
 
@@ -133,7 +133,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   
 - [Stable Diffusion already has a noisy style latent space] (AIGC：图像编辑)
 
-  **Jiancheng Huang**, et. al. 
+  **Ginseng Wong**, et. al. 
 
   IEEE International Conference on Multimedia and Expo (ICME) \| CCF-B
 
@@ -141,7 +141,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   
 - [Entwined Inversion: Tune-Free Inversion for Real Image Faithful Reconstruction and Editing] (AIGC：图像编辑)
 
-  **Jiancheng Huang**, et. al. 
+  **Ginseng Wong**, et. al. 
 
   IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) \| CCF-B \| Tsinghua list A
 
@@ -149,7 +149,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
 - [BK-Editer: Body-Keeping Text-Conditioned Real Image Editing] (AIGC：图像编辑)
 
-  **Jiancheng Huang**, et. al.
+  **Ginseng Wong**, et. al.
 
   Computational Visual Media (CVM) \| CCF-C
 
@@ -157,7 +157,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
 - [GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning](https://gpt4motion.github.io/) (GitHub 110+ stars) (AIGC：视频生成)
 
-  Jiaxi Lv, Yi Huang, Mingfu Yan, **Jiancheng Huang**, et. al.
+  Jiaxi Lv, Yi Huang, Mingfu Yan, **Ginseng Wong**, et. al.
 
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) PDBL (Best Paper Runner-Up)
 
@@ -167,7 +167,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   
 - [NTIRE 2024 Challenge on Low Light Image Enhancement: Methods and Results]
 
-  et. al, **Jiancheng Huang**, et. al.
+  et. al, **Ginseng Wong**, et. al.
 
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops
 
@@ -175,7 +175,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   
 - [Bootstrap Diffusion Model Curve Estimation for High Resolution Low-Light Image Enhancement] (AIGC：生成式复原)
   
-  **Jiancheng Huang**, et. al.
+  **Ginseng Wong**, et. al.
 
   Pacific Rim International Conference on Artificial Intelligence (PRICAI) \| Tsinghua list B in Mathematics (Best Paper Candidate)
 
@@ -183,7 +183,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   
 - [DeSeal: Semantic-Aware Seal2Clear Attention for Document Seal Removal] (AIGC：生成式复原)
 
-  Yifan Liu\*, **Jiancheng Huang\***, et. al. (\* indicates equal contribution)
+  Yifan Liu\*, **Ginseng Wong\***, et. al. (\* indicates equal contribution)
 
   IEEE Signal Processing Letters (SPL) \| SCI Q2 \| Tsinghua list B
 
@@ -191,7 +191,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
 - [Distribution-Aware Calibration for Object Detection with Noisy Bounding Boxes]
 
-  Donghao Zhou, Jialin Li, Jinpeng Li, **Jiancheng Huang**, Qiang Nie, Yong liu, Bin-Bin Gao, Qiong Wang, Pheng-Ann Heng, Guangyong Chen
+  Donghao Zhou, Jialin Li, Jinpeng Li, **Ginseng Wong**, Qiang Nie, Yong liu, Bin-Bin Gao, Qiong Wang, Pheng-Ann Heng, Guangyong Chen
 
   British Machine Vision Conference (BMVC) \| Tsinghua list B
  
@@ -199,7 +199,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
 - [MambaDW: Semantic-Aware Mamba for Document Watermark Removal] (AIGC：生成式复原)
 
-  Yifan Liu, Mingfu Yan, **Jiancheng Huang**, et. al.
+  Yifan Liu, Mingfu Yan, **Ginseng Wong**, et. al.
   
   Computer Graphics International (CGI) \| Tsinghua list B
 
@@ -207,7 +207,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
 - [Learning Image-Adaptive Lookup Tables With Spatial Awareness for Image Harmonization] (AIGC：生成式复原)
 
-  Yi Huang, Yu Dong, He Zhang, **Jiancheng Huang**, Shifeng Chen
+  Yi Huang, Yu Dong, He Zhang, **Ginseng Wong**, Shifeng Chen
 
   IEEE Transactions on Consumer Electronics (TCE) \| SCI Q1
 
@@ -215,7 +215,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   
 - [Matten: Video Generation with Mamba-Attention] (AIGC：视频生成)
 
-  **Jiancheng Huang**, et. al.
+  **Ginseng Wong**, et. al.
 
   arXiv Preprint 2024 (Under Review)
 
@@ -225,7 +225,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
 - [MRStyle: A Unified Framework for Color Style Transfer with Multi-Modality Reference] (AIGC：图像编辑)
 
-  **Jiancheng Huang**, et. al.
+  **Ginseng Wong**, et. al.
 
   arXiv Preprint 2024 (Under Review)
   
@@ -234,7 +234,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
 - [SpecRef: A Fast Training-free Baseline of Specific Reference-Condition Real Image Editing] (AIGC：图像编辑)
 
-  Songyan Chen, **Jiancheng Huang\*** (\* indicates corresponding author)
+  Songyan Chen, **Ginseng Wong\*** (\* indicates corresponding author)
 
   arXiv Preprint 2023 (Under Review) (GitHub 30+ stars)
 
@@ -242,7 +242,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
 - [Pi-fusion: Physics-informed diffusion model for learning fluid dynamics]
 
-  Jing Qiu\*, **Jiancheng Huang\***, et. al. (\* indicates equal contribution)
+  Jing Qiu\*, **Ginseng Wong\***, et. al. (\* indicates equal contribution)
 
   arXiv Preprint 2024 (Under Review)
   
@@ -250,7 +250,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
 - [Seal2Real: Prompt Prior Learning on Diffusion Model for Unsupervised Document Seal Data Generation and Realisation] (AIGC：图像生成)
 
-  **Jiancheng Huang**, Yifan Liu, Shifeng Chen 
+  **Ginseng Wong**, Yifan Liu, Shifeng Chen 
 
   arXiv Preprint 2023 (Under Review)
   
@@ -258,7 +258,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
 - [Graph Edit Distance Learning via Different Attention]
 
-  Jiaxi Lv, Liang Zhang, Yi Huang, **Jiancheng Huang**, Shifeng Chen
+  Jiaxi Lv, Liang Zhang, Yi Huang, **Ginseng Wong**, Shifeng Chen
 
   arXiv Preprint 2023 (Under Review)
 
