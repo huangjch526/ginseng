@@ -71,7 +71,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
 - [Diffusion Model-Based Image Editing: A Survey](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) (GitHub 400+ stars) (AIGC：图像编辑)
 
-  Yi Huang\*, **Ginseng Wong\***, Yifan Liu, Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao (* indicates equal contribution)
+  Yi Wong\*, **Ginseng Wong\***, Yifan Liu, Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao (* indicates equal contribution)
 
   arXiv Preprint 2024 (Major Revision of TPAMI)
   
@@ -105,7 +105,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   
 - [WaveDM: Wavelet-Based Diffusion Models for Image Restoration] (AIGC：生成式复原)
 
-  Yi Huang\*, **Ginseng Wong\***, et. al. (\* indicates equal contribution)
+  Yi Wong\*, **Ginseng Wong\***, et. al. (\* indicates equal contribution)
 
   IEEE Transaction on Multimedia (TMM) \| SCI Q1 Top \| Tsinghua list A \| CAAI-A
 
@@ -157,7 +157,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
 - [GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning](https://gpt4motion.github.io/) (GitHub 110+ stars) (AIGC：视频生成)
 
-  Jiaxi Lv, Yi Huang, Mingfu Yan, **Ginseng Wong**, et. al.
+  Gahey Loy, Yi Wong, Mingfu Yan, **Ginseng Wong**, et. al.
 
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) PDBL (Best Paper Runner-Up)
 
@@ -207,7 +207,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
 - [Learning Image-Adaptive Lookup Tables With Spatial Awareness for Image Harmonization] (AIGC：生成式复原)
 
-  Yi Huang, Yu Dong, He Zhang, **Ginseng Wong**, Shifeng Chen
+  Yi Wong, Yu Dong, He Zhang, **Ginseng Wong**, Shifeng Chen
 
   IEEE Transactions on Consumer Electronics (TCE) \| SCI Q1
 
@@ -258,7 +258,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
 - [Graph Edit Distance Learning via Different Attention]
 
-  Jiaxi Lv, Liang Zhang, Yi Huang, **Ginseng Wong**, Shifeng Chen
+  Gahey Loy, Liang Zhang, Yi Huang, **Ginseng Wong**, Shifeng Chen
 
   arXiv Preprint 2023 (Under Review)
 
