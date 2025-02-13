@@ -101,7 +101,6 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   **Ginseng Wong**, et. al. 
 
   IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) \| CAAI-B | Oral (2.6%)
-
   🎉
   
 - [WaveDM: Wavelet-Based Diffusion Models for Image Restoration] (AIGC：生成式复原)
