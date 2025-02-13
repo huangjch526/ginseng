@@ -32,8 +32,8 @@ Google scholar citations
 My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://people.ucas.ac.cn/~chaodong). Our Lab is directed by Professor [Xiaoou Tang](https://people.ucas.edu.cn/~0017056?language=en) and [Yu Qiao](https://mmlab.siat.ac.cn/yuqiao). I also work with my coauthors such as [Donghao Zhou](https://correr-zhou.github.io/), [Chaoqi Chen](https://chaoqichen.github.io/), [Lin Ma](https://scholar.google.com/citations?user=DAn1pA4AAAAJ&hl=zh-CN), [Wei Xiong](https://wxiong.me/), [He Zhang](https://sites.google.com/site/hezhangsprinter/), [Liangliang Cao](http://llcao.net/), [Pheng Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN), [Zequn Jie](https://scholar.google.com/citations?user=4sKGNB0AAAAJ&hl=zh-CN), [Yizhou Yu](https://i.cs.hku.hk/~yzyu/), and [Jianzhuang Liu](https://teacher.ucas.ac.cn/~jzliu#%20191067). **Xiaoou Tang, Chao Dong, Yu Qiao, Liangliang Cao, Pheng Ann Heng, Yizhou Yu, and Jianzhuang Liu are World's Top 2% Scientists of Lifetime Impact Ranking.** 
 
 # 🔥 News
-- *2025.02*: My co-first-authored paper on diffusion model image editing is accepted by TPAMI (CCF-A)!
-- *2024.10*: My first-authored paper on diffusion model image editing is accepted by WACV (CAAI-B)!
+- *2025.02*: My co-first-authored paper on diffusion model image editing is accepted by **TPAMI (CCF-A)**!
+- *2024.10*: My first-authored paper on diffusion model image editing is accepted by WACV (CAAI-B) and selected as **Oral presentation(2.6%)**.
 - *2024.08*: I am now a research engineer at MM of Meituan Inc, focusing on MLLM and AIGC.
 - *2024.07*: I won the Invention Venture Award for Innovation from the China Invention Association.
 - *2024.07*: My first-authored paper, MagicFight, is accepted by ACM MM (CCF-A)!
@@ -41,8 +41,8 @@ My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://peop
 - *2024.04*: I am awarded the **Outstanding Graduate Student of Chinese Academy of Sciences, Outstanding Graduate Student of Beijing Universities ([中科院优秀毕业生、北京高校研究生优秀毕业生](https://mp.weixin.qq.com/s?__biz=MzA4NzI3NTYyNA==&mid=2652899619&idx=1&sn=c6aaad6a5e947b011b115a8cfd81dd4f&chksm=8aafc6b28420ec96235b4d2d17898d54acf9d8eda760dec359c5e6856cb4fb044486be8e9d40&scene=27))**!
 - *2024.03*: Our paper GPT4Motion is awarded the **Best Paper Runner-Up (最佳论文亚军)** in PBDL@CVPR 2024!
 - *2024.03*: From 2023 to now, I had 12 articles accepted, 7 of which were regular papers in the CCF/Tsinghua list A/B journal/conference. Most of these papers are my first-authored. 
-- *2023.12*: I am awarded the **SIAT president scholarship (院长奖学金)**!
-- *2023.10*: I am awarded the **Best Paper Candidate** in PRICAI (Tsinghua list B in Mathematics)!
+- *2023.12*: I am awarded the SIAT president scholarship (院长奖学金)!
+- *2023.10*: I am awarded the Best Paper Candidate in PRICAI (Tsinghua list B in Mathematics)!
 - *2023.10*: I get my SSP offers from many top companies. 🔬
 - *2022.07*: I work with Noah's Ark Lab, HUAWEI, and dedicate myself to exploring AIGC algorithm and their applications in low-level and 3D. 🔬
 - *2022.06*: 👨‍🎓👨‍🎓 I am awarded the outstanding graduate student award of UCAS!
@@ -56,7 +56,7 @@ My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://peop
 - *2019.10*: 🎉🎉 Again, we won the first prize in the Sort Bank Cup China Robotics Competition 2019. 🤖️ 
 - *2019.09*: 🎉🎉 I am awarded the second prize of Nanjing University scholarship!
 - *2018.10*: 🎉🎉 We won the first prize in the Sort Bank Cup China Robotics Competition 2018. 🤖️
-- *2018.09*: 🎉🎉 I become a member of the Robotics Lab belonging to the Lamda group at NJU (leading by Zhi-Hua Zhou). 🤖️
+- *2018.09*: 🎉🎉 I become a member of the Robotics Lab belonging to the Lamda group at NJU (led by Zhi-Hua Zhou). 🤖️
 - *2017.07*: 🎉🎉 I scored 641 points in the 2017 college entrance exam (高考), ranking in the **Top 600 in Guangdong Province (Top 0.1% of all students in Guangdong，高考广东省理科前600名、佛山市前30名，曾获佛山市语文单科状元，出分当天接到中科大、南京大学等华东五校和人民大学招生办的多次电话)**. 
 
 # 📝 Publications
@@ -88,7 +88,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   
   🎉
 
-- [IFAST: Weakly Supervised Interpretable Face Anti-spoofing from Single-shot Binocular NIR Images]  (AIGC：图像生成)
+- [IFAST: Weakly Supervised Interpretable Face Anti-spoofing from Single-shot Binocular NIR Images]  (AIGC：图像生成for理解任务)
 
   **Ginseng Wong**, Donghao Zhou, Shifeng Chen 
 
@@ -100,7 +100,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   **Ginseng Wong**, et. al. 
 
-  IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) \| CAAI-B
+  IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) \| CAAI-B | Oral (2.6%)
 
   🎉
   
