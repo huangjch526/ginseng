@@ -94,13 +94,14 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   IEEE Transactions on Information Forensics and Security (TIFS) \| SCI Q1 Top \| CCF-A \| Tsinghua list A \| CAAI-A (GitHub 50+ stars)
 
- 🎉
+  🎉
 
 - [Dual-Schedule Inversion: Tuning-Free Inversion for Real Image Faithful Reconstruction and Editing] (AIGC：图像编辑)
 
   **Ginseng Wong**, et. al. 
 
   IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) \| CAAI-B | Oral (2.6%)
+  
   🎉
   
 - [WaveDM: Wavelet-Based Diffusion Models for Image Restoration] (AIGC：生成式复原)
