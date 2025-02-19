@@ -57,7 +57,7 @@ My first mentor is Shifeng Chen and my second mentor is [Chao Dong](https://peop
 - *2019.09*: 🎉🎉 I am awarded the second prize of Nanjing University scholarship!
 - *2018.10*: 🎉🎉 We won the first prize in the Sort Bank Cup China Robotics Competition 2018. 🤖️
 - *2018.09*: 🎉🎉 I become a member of the Robotics Lab belonging to the Lamda group at NJU (led by Zhi-Hua Zhou). 🤖️
-- *2017.07*: 🎉🎉 I scored 641 points in the 2017 college entrance exam (高考), ranking in the **Top 600 in Guangdong Province (Top 0.1% of all students in Guangdong，高考广东省理科前600名、佛山市前30名，曾获佛山市语文单科状元，出分当天接到中科大、南京大学等华东五校和人民大学招生办的多次电话)**. 
+- *2017.07*: 🎉🎉 I scored 641 points in the 2017 college entrance exam (高考), ranking in the **Top 600 in Guangdong Province (Top 0.1% of all students in Guangdong，高考广东省理科前600名、佛山市前30名，曾获佛山市语文单科状元，出分当天接到中科大、南京大学、浙江大学等华东五校和人民大学招生办的反复多次电话)**. 
 
 # 📝 Publications
 
