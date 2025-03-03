@@ -123,6 +123,15 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   -[[arxiv]](https://arxiv.org/abs/2410.13370) [[project]](https://correr-zhou.github.io/MagicTailor/) [[AIGC公众号]](https://mp.weixin.qq.com/s/WF8jioEV8P6cRT_mXg3tkw)
 
   🎉
+  
+- [FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction](https://github.com/jiaosiyu1999/FlexVAR) (AIGC：图像生成)
+
+  Siyu Jiao, Gengwei Zhang, Yinlong Qian, Jiancheng Huang, et. al.
+
+  arXiv Preprint 2025 (Under Review)
+  
+  -[[arxiv]]([https://arxiv.org/abs/2410.13370](https://arxiv.org/pdf/2502.20313)) [[project]](https://github.com/jiaosiyu1999/FlexVAR) [[AIGC公众号]](https://mp.weixin.qq.com/s/QlL3hPFnqyKpwywXYSpK6Q)[[AIGC公众号]](https://mp.weixin.qq.com/s/hMPDcFf6ypPmRpq_UkFZiA)
+
 
 - [SBCR: Stochasticity Beats Content Restriction Problem in Training and Tuning Free Image Editing] (AIGC：图像编辑)
 
