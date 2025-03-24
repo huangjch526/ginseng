@@ -19,7 +19,7 @@ redirect_from:
 
 I am now a research engineer at MM of Meituan Inc. I was a M.Sc. student at [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) <img src='images/logo_UCAS.png' style='width: 1.1em;'> ([Ranking NO.69 in US.News](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences)), and did my research at [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/). I worked in the CUHK@MMLAB in Shenzhen named [SIAT-MMLAB](https://english.siat.ac.cn/), which was founded and directed by Professor [Xiaoou Tang](https://people.ucas.edu.cn/~0017056?language=en), Yu Qiao, and Chao Dong. I received my B.E. degree from [Nanjing University (NJU)]([https://english.ucas.ac.cn/](https://www.nju.edu.cn/)) <img src='images/logo_NJU.png' style='width: 1.1em;'> ([Ranking NO.65 in THE, NO.98 in US.News, and NO.121 in QS](https://en.wikipedia.org/wiki/Nanjing_University)), Nanjing, China in 2021. My undergraduate and graduate universities are both ranked among the top 100 universities in the world.
 
-My research interests include deep learning, computer vision, and image enhancement. Recently, I have focused on AIGC, low-level tasks, image editing, image generation, video generation, and 3D generation. I have explored AIGC methods such as Diffusion Models for a very long time (from 2022.7 to now). I work on designing new kinds of Diffusion Models and their applications for various fields, aiming to promote the efficiency and flexibility of Diffusion Models used in the real world. I am now an IEEE member, ACM member, IEEE SPS member and CCF member. **I have been invited by the PCs and served as a reviewer many times for top conferences or journals such as ICML (2025), NeurIPS (2025,2024), ICLR (2025), CVPR (2025), ICCV (2025,2023), ECCV (2024), ACM MM (2025,2024), WACV (2025), ICME (2025,2024), AISTATS (2025), ICMR (2024), Neural Networks (many times), and MMM (2023).**
+My research interests include deep learning, computer vision, and image enhancement. Recently, I have focused on AIGC, low-level tasks, image editing, image generation, video generation, and 3D generation. I have explored AIGC methods such as Diffusion Models for a very long time (from 2022.7 to now). I work on designing new kinds of Diffusion Models and their applications for various fields, aiming to promote the efficiency and flexibility of Diffusion Models used in the real world. I am now an IEEE member, ACM member, IEEE SPS member and CCF member. **I have been invited by the PCs and served as a reviewer many times for top conferences or journals such as ICML (2025), NeurIPS (2025,2024), ICLR (2025), CVPR (2025), ICCV (2025,2023), ECCV (2024), ACM MM (2025,2024), ACL (2025), WACV (2025), ICME (2025,2024), AISTATS (2025), ICMR (2025,2024), Information Fusion (many times), Neural Networks (many times), and MMM (2023).**
 
 Google scholar citations
 
@@ -132,6 +132,17 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   
   -[[arxiv]]([https://arxiv.org/abs/2410.13370](https://arxiv.org/pdf/2502.20313)) [[project]](https://github.com/jiaosiyu1999/FlexVAR) [[AIGC公众号]](https://mp.weixin.qq.com/s/QlL3hPFnqyKpwywXYSpK6Q)[[AIGC公众号]](https://mp.weixin.qq.com/s/hMPDcFf6ypPmRpq_UkFZiA)
 
+  🎉
+
+- [GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning](https://gpt4motion.github.io/) (GitHub 110+ stars) (AIGC：视频生成)
+
+  Gahey Loy, Yi Wong, Mingfu Yan, **Ginseng Wong**, et. al.
+
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) PDBL (Oral, Best Paper Runner-Up)
+
+  [[机器之心]](https://mp.weixin.qq.com/s/bupEHVZetu0IUiJmmQjr6g)
+
+  🎉
 
 - [SBCR: Stochasticity Beats Content Restriction Problem in Training and Tuning Free Image Editing] (AIGC：图像编辑)
 
@@ -148,6 +159,16 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   IEEE International Conference on Multimedia and Expo (ICME) \| CCF-B
 
   🎉
+
+- [Component Adaptive Clustering for Generalized Category Discovery] (AIGC：图像生成for分类)
+
+  Mingfu Yan, **Ginseng Wong**, et. al. 
+
+  IEEE International Conference on Multimedia and Expo (ICME) \| CCF-B \| Oral
+
+  🎉
+
+  Component Adaptive Clustering for Generalized Category Discovery
   
 - [Entwined Inversion: Tune-Free Inversion for Real Image Faithful Reconstruction and Editing] (AIGC：图像编辑)
 
@@ -165,15 +186,6 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   🎉
 
-- [GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning](https://gpt4motion.github.io/) (GitHub 110+ stars) (AIGC：视频生成)
-
-  Gahey Loy, Yi Wong, Mingfu Yan, **Ginseng Wong**, et. al.
-
-  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) PDBL (Best Paper Runner-Up)
-
-  [[机器之心]](https://mp.weixin.qq.com/s/bupEHVZetu0IUiJmmQjr6g)
-
-  🎉
   
 - [NTIRE 2024 Challenge on Low Light Image Enhancement: Methods and Results]
 
