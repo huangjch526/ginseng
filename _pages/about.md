@@ -167,8 +167,6 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   IEEE International Conference on Multimedia and Expo (ICME) \| CCF-B \| Oral
 
   🎉
-
-  Component Adaptive Clustering for Generalized Category Discovery
   
 - [Entwined Inversion: Tune-Free Inversion for Real Image Faithful Reconstruction and Editing] (AIGC：图像编辑)
 
@@ -186,7 +184,22 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   🎉
 
-  
+- [NTIRE 2025 Challenge on Low Light Image Enhancement: Methods and Results]
+
+  et. al, **Ginseng Wong**, et. al.
+
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops
+
+  🎉
+
+- [NTIRE 2025 Challenge on Efficient Image Super-Resolution]
+
+  et. al, **Ginseng Wong**, et. al.
+
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops
+
+  🎉
+
 - [NTIRE 2024 Challenge on Low Light Image Enhancement: Methods and Results]
 
   et. al, **Ginseng Wong**, et. al.
