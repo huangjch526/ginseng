@@ -32,6 +32,7 @@ Google scholar citations
 My first mentor is Shifeng Chen, and my second mentor is [Chao Dong](https://people.ucas.ac.cn/~chaodong). Our Lab is directed by Professor [Xiaoou Tang](https://people.ucas.edu.cn/~0017056?language=en) and [Yu Qiao](https://mmlab.siat.ac.cn/yuqiao). I also work with my coauthors such as [Donghao Zhou](https://correr-zhou.github.io/), [Chaoqi Chen](https://chaoqichen.github.io/), [Lin Ma](https://scholar.google.com/citations?user=DAn1pA4AAAAJ&hl=zh-CN), [Wei Xiong](https://wxiong.me/), [He Zhang](https://sites.google.com/site/hezhangsprinter/), [Liangliang Cao](http://llcao.net/), [Pheng Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN), [Zequn Jie](https://scholar.google.com/citations?user=4sKGNB0AAAAJ&hl=zh-CN), [Yizhou Yu](https://i.cs.hku.hk/~yzyu/), and [Jianzhuang Liu](https://teacher.ucas.ac.cn/~jzliu#%20191067). **Xiaoou Tang, Chao Dong, Yu Qiao, Liangliang Cao, Pheng Ann Heng, Yizhou Yu, and Jianzhuang Liu are World's Top 2% Scientists of Lifetime Impact Ranking.** 
 
 # 🔥 News
+- *2025.02*: My co-first-authored paper on diffusion model image generation is accepted by **IJCAI (CCF-A)**.
 - *2025.02*: My co-first-authored paper on diffusion model image editing is accepted by **TPAMI (CCF-A)**!
 - *2024.10*: My first-authored paper on diffusion model image editing is accepted by WACV (CAAI-B) and selected as **Oral presentation(2.6%)**.
 - *2024.08*: I am now a research engineer at MM of Meituan Inc, focusing on MLLM and AIGC.
@@ -118,7 +119,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   Donghao Zhou\*, **Ginseng Wong\***, et. al. (\* indicates equal contribution)
 
-  arXiv Preprint 2024 (Under Review)
+  2025 International Joint Conference on Artificial Intelligence (IJCAI) \| CCF-A \| Tsinghua list A \| CAAI-A 
   
   -[[arxiv]](https://arxiv.org/abs/2410.13370) [[project]](https://correr-zhou.github.io/MagicTailor/) [[AIGC公众号]](https://mp.weixin.qq.com/s/WF8jioEV8P6cRT_mXg3tkw)
 
