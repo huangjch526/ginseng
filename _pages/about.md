@@ -33,7 +33,7 @@ My first mentor is Shifeng Chen, and my second mentor is [Chao Dong](https://peo
 
 # 🔥 News
 - *2025.09*: Our paper on VAR image generation is accepted by **NeurIPS (CCF-A)**.
-- *2025.02*: My co-first-authored paper on diffusion model image generation is accepted by **IJCAI (CCF-A)**.
+- *2025.02*: My co-first-authored paper on diffusion model image generation is accepted by **IJCAI (CCF-A, Oral)**.
 - *2025.02*: My co-first-authored paper on diffusion model image editing is accepted by **TPAMI (CCF-A)**!
 - *2024.10*: My first-authored paper on diffusion model image editing is accepted by WACV (CAAI-B) and selected as **Oral presentation(2.6%)**.
 - *2024.08*: I am now a research engineer at MM of Meituan Inc, focusing on MLLM and AIGC.
@@ -120,7 +120,7 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
 
   Donghao Zhou\*, **Ginseng Wong\***, et. al. (\* indicates equal contribution)
 
-  2025 International Joint Conference on Artificial Intelligence (IJCAI) \| CCF-A \| Tsinghua list A \| CAAI-A 
+  2025 International Joint Conference on Artificial Intelligence (IJCAI) \| CCF-A \| Tsinghua list A \| CAAI-A \| Oral
   
   -[[arxiv]](https://arxiv.org/abs/2410.13370) [[project]](https://correr-zhou.github.io/MagicTailor/) [[AIGC公众号]](https://mp.weixin.qq.com/s/WF8jioEV8P6cRT_mXg3tkw)
 
