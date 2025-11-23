@@ -21,7 +21,9 @@ Ginseng Wong is my Cantonese name, and my Mandarin name is Huang-Jian-cheng. I a
 
 My research interests include deep learning, computer vision, and image enhancement. Recently, I have focused on AIGC, low-level tasks, image editing, image generation, video generation, and 3D generation. I have explored AIGC methods such as Diffusion Models for a very long time (from 2022.7 to now). I work on designing new kinds of Diffusion Models and their applications for various fields, aiming to promote the efficiency and flexibility of Diffusion Models used in the real world. I am now an IEEE member, ACM member, IEEE SPS member and CCF member. **I have been invited by the PCs and served as a reviewer many times for top conferences or journals such as Nature-branded journals (Nature子刊), ICML (2025), NeurIPS (2025, 2024), ICLR (2025, 2026), CVPR (2025, 2026), ICCV (2025, 2023), ECCV (2024), ACM MM (2024, 2025), ACL (2025), WACV (2025，2026), ICME (2025, 2024), AISTATS (2025，2026), ICMR (2025, 2024), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Pattern Recognition (PR), Information Fusion, Neural Networks (NN), Computer Vision and Image Understanding (CVIU), and Knowledge-Based Systems (KBS).**
 
-Google scholar citations
+Google Scholar citations. My Google Scholar citations are completely clean—never polluted. You can freely click on any of the last 10 pages of citations for any paper and see genuine papers. There are never any fake papers like those on ResearchGate. Unlike some people in the community who like to buy fake citations to show off, indirectly affecting other peers who don't buy citations.
+
+Translated with DeepL.com (free version)
 
 <p align="center">
   <img src="images/cita.jpg" alt="image" style="width:200px;">
