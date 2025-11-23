@@ -23,8 +23,6 @@ My research interests include deep learning, computer vision, and image enhancem
 
 Google Scholar citations. My Google Scholar citations are completely clean—never polluted. You can freely click on any of the last 10 pages of citations for any paper and see genuine papers. There are never any fake papers like those on ResearchGate. Unlike some people in the community who like to buy fake citations to show off, indirectly affecting other peers who don't buy citations.
 
-Translated with DeepL.com (free version)
-
 <p align="center">
   <img src="images/cita.jpg" alt="image" style="width:200px;">
 </p>
