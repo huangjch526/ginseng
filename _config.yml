@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ginseng Wong"
-description              : "M.Sc. student at University of Chinese Academy of Sciences (UCAS). Doing research at Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)."
+description              : "Seedance Team, Bytedance Inc."
 repository               : "huangjch526/huangjch526-2.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ginseng Wong"
   avatar           : "images/HJC2.png"
-  bio              : "UCAS and NJU"
+  bio              : "UCAS(中科院) and NJU(南京大学)"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    :  #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "jc.huang@siat.ac.cn"
+  googlescholar    :  "https://scholar.google.com/citations?user=5gIq97AAAAAJ&hl=zh-CN"
+  email            : "jianchenghuang@smail.nju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
