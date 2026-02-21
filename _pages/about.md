@@ -37,7 +37,7 @@ My first mentor is Shifeng Chen, and my second mentor is [Chao Dong](https://peo
 - *2026.02*: Our **Seedance 2.0** is the best video AIGC foundation model in the world, and was recognized by Elon Musk and the Chinese government, etc.
 - *2026.02*: Our little team has released Seedance 2.0, now available on Doubao, Jimeng, and VolcanoEngine. We welcome everyone to use them.
 - *2025.12*: Our large team has released Seed 1.8 (VLM) and Seedance 1.5 Pro, now available on Doubao, Jimeng, and VolcanoEngine. We welcome everyone to use them.
-- *2025.12*: I am now a research scientist at Seedance Team, Bytedance Inc, focusing on MLLM and AIGC.
+- *2025.12*: I am now a **research scientist at Seedance Team**, Bytedance Inc, focusing on MLLM and AIGC.
 - *2025.12*: It's been three years since I met Yu Gao. He's become my best friend since I joined Meituan.
 - *2025.11*: Due to the OpenReview reviewer information leak, I was exposed as the [Top-3 Quality Reviewer](https://www.openreview.online/) for ICLR 2026, which coincidentally aligns with my Top Reviewer award from NeurIPS 2025.
 - *2025.11*: Warm congratulations to our lab director at NJU, Professor Zhi-Hua Zhou, on his election as an academician of the Chinese Academy of Sciences (中科院院士).
