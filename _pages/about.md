@@ -19,7 +19,7 @@ redirect_from:
 
 Ginseng Wong is my Cantonese name, and my Mandarin name is Huang-Jian-cheng. I am now a research scientist at Seedance Team, Bytedance Inc. I was a senior research engineer at Longcat Team, Meituan Inc. I was a M.Sc. student at [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) <img src='images/logo_UCAS.png' style='width: 1.1em;'> ([Ranking NO.54 in US.News](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences)), and did my research at [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/). I worked in CUHK@MMLAB in Shenzhen, named [SIAT-MMLAB](https://english.siat.ac.cn/), which was founded and directed by Professor [Xiaoou Tang](https://people.ucas.edu.cn/~0017056?language=en), Yu Qiao, and Chao Dong. I received my B.E. degree from [Nanjing University (NJU)]([https://english.ucas.ac.cn/](https://www.nju.edu.cn/)) <img src='images/logo_NJU.png' style='width: 1.1em;'> ([Ranking NO.62 in THE, NO.86 in US.News, and NO.103 in QS](https://en.wikipedia.org/wiki/Nanjing_University)), Nanjing, China in 2021. My undergraduate and graduate universities are both ranked among the top 100 universities in the world.
 
-My research interests focused on AIGC, low-level tasks, image editing, image generation, video generation, and MLLM. I have explored AIGC methods such as Diffusion Models for a very long time (from 2022.7 to now). I work on designing new kinds of Diffusion Models and their applications for various fields, aiming to promote the efficiency and flexibility of Diffusion Models used in the real world. I am now an IEEE member, ACM member, IEEE SPS member and CCF member. **I have been invited by the PCs and served as a reviewer many times for top conferences or journals such as Nature-branded journals (Nature子刊), ICML (2025, 2026), NeurIPS (2024, 2025), ICLR (2025, 2026), CVPR (2025, 2026), ICCV (2025, 2023), ECCV (2024,2026), ACM MM (2024, 2025), ACL (2025), WACV (2025，2026), ICME (2024, 2025, 2026), AISTATS (2025，2026), ICMR (2024, 2025, 2026), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Pattern Recognition (PR), Information Fusion, Neural Networks (NN), Computer Vision and Image Understanding (CVIU), and Knowledge-Based Systems (KBS).**
+My research interests focused on AIGC, low-level tasks, image editing, image generation, video generation, and MLLM. I have explored AIGC methods such as Diffusion Models for a very long time (from 2022.7 to now). I work on designing new kinds of Diffusion Models and their applications for various fields, aiming to promote the efficiency and flexibility of Diffusion Models used in the real world. I am now an IEEE member, ACM member, IEEE SPS member and CCF member. **I have been invited by the PCs and served as a reviewer many times for top conferences or journals such as Nature-branded journals (Nature子刊), ICML (2025, 2026), NeurIPS (2024, 2025), ICLR (2025, 2026), CVPR (2025, 2026), ICCV (2023, 2025), ECCV (2024, 2026), ACM MM (2024, 2025, 2026), ACL (2025), WACV (2025，2026), ICME (2024, 2025, 2026), AISTATS (2025，2026), ICMR (2024, 2025, 2026), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Pattern Recognition (PR), Information Fusion, Neural Networks (NN), Computer Vision and Image Understanding (CVIU), and Knowledge-Based Systems (KBS).**
 
 Google Scholar citations. My Google Scholar citations are completely clean—never polluted. You can freely click on any of the last 10 pages of citations for any paper and see genuine papers. There are never any fake or 404 papers on ResearchGate. Unlike some people in the community who like to buy fake citations to show off, indirectly affecting other co-authors who don't buy citations.
 
@@ -32,8 +32,11 @@ Google Scholar citations. My Google Scholar citations are completely clean—nev
 My first mentor is Shifeng Chen, and my second mentor is [Chao Dong](https://people.ucas.ac.cn/~chaodong). Our Lab is directed by Professor [Xiaoou Tang](https://people.ucas.edu.cn/~0017056?language=en) and [Yu Qiao](https://mmlab.siat.ac.cn/yuqiao). I also work with my coauthors such as [Yu Gao](https://scholar.google.com/citations?user=7LWcUXQAAAAJ&hl=zh-CN), [Donghao Zhou](https://correr-zhou.github.io/), [Chaoqi Chen](https://chaoqichen.github.io/), [Lin Ma](https://scholar.google.com/citations?user=DAn1pA4AAAAJ&hl=zh-CN), [Wei Xiong](https://wxiong.me/), [He Zhang](https://sites.google.com/site/hezhangsprinter/), [Liangliang Cao](http://llcao.net/), [Pheng Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN), [Zequn Jie](https://scholar.google.com/citations?user=4sKGNB0AAAAJ&hl=zh-CN), [Yizhou Yu](https://i.cs.hku.hk/~yzyu/), and [Jianzhuang Liu](https://teacher.ucas.ac.cn/~jzliu#%20191067). **Xiaoou Tang, Chao Dong, Yu Qiao, Liangliang Cao, Pheng Ann Heng, Yizhou Yu, and Jianzhuang Liu are World's Top 2% Scientists of Lifetime Impact Ranking.** 
 
 # 🔥 News
-- *2026.02*: Our team has released Seedance 2.0, now available on Jimeng and VolcanoEngine. We welcome everyone to use them.
-- *2025.12*: Our large team has released Seed 1.8 and Seedance 1.5 Pro, now available on Doubao, Jimeng, and VolcanoEngine. We welcome everyone to use them.
+- *2026.02*: My first-authored paper on text-to-video AIGC is accepted by **CVPR (CCF-A)**.
+- *2026.02*: Our large team has released **Seed 2.0 (VLM)**, now available on Doubao and VolcanoEngine. We welcome everyone to use them.
+- *2026.02*: Our **Seedance 2.0** is the best video AIGC foundation model in the world, and was recognized by Elon Musk and the Chinese government, etc.
+- *2026.02*: Our little team has released Seedance 2.0, now available on Doubao, Jimeng, and VolcanoEngine. We welcome everyone to use them.
+- *2025.12*: Our large team has released Seed 1.8 (VLM) and Seedance 1.5 Pro, now available on Doubao, Jimeng, and VolcanoEngine. We welcome everyone to use them.
 - *2025.12*: I am now a research scientist at Seedance Team, Bytedance Inc, focusing on MLLM and AIGC.
 - *2025.12*: It's been three years since I met Yu Gao. He's become my best friend since I joined Meituan.
 - *2025.11*: Due to the OpenReview reviewer information leak, I was exposed as the [Top-3 Quality Reviewer](https://www.openreview.online/) for ICLR 2026, which coincidentally aligns with my Top Reviewer award from NeurIPS 2025.
@@ -87,6 +90,30 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   IEEE Transactions onPattern Analysis and Machine lntelligence (TPAMI) \| SCI Q1 Top \| CCF-A \| Tsinghua list A \| CAAI-A 
   
 -[[量子位]](https://mp.weixin.qq.com/s/4efSWtpA2RMN7tVOGTYfxw) [[机器之心]](https://mp.weixin.qq.com/s/bupEHVZetu0IUiJmmQjr6g) [[新智元]](https://mp.weixin.qq.com/s/7skCBhRSAcevR85ooW9F4g) [[我爱计算机视觉]](https://mp.weixin.qq.com/s/MFbCt0XfOf9fV0YbdkmR6g) [[专知]](https://mp.weixin.qq.com/s/eztg0R2bD8IaUG3c9i8ZXg) [[AI生成未来]](https://mp.weixin.qq.com/s/eztg0R2bD8IaUG3c9i8ZXg)
+
+  🎉
+
+- [Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity] (GitHub 110+ stars) (LLM: 基础模型)
+
+  Bytedance, Seed.
+  
+  [[机器之心]](https://baijiahao.baidu.com/s?id=1851832195084056755&wfr=spider&for=pc)
+
+  🎉
+
+- [Seed1.8 Model Card: Towards Generalized Real-World Agency] (GitHub 110+ stars) (LLM: 基础模型)
+
+  Bytedance, Seed.
+  
+  [[机器之心]](https://baijiahao.baidu.com/s?id=1851832195084056755&wfr=spider&for=pc)
+
+  🎉
+
+- [M4V: Multi-Modal Mamba for Text-to-Video Generation] (AIGC: 基础模型)
+
+  J Huang, G Zhang, Z Jie, S Jiao, Y Qian, L Chen, Y Wei, L Ma
+
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) \| CCF-A \| CAAI-A
 
   🎉
 
@@ -151,20 +178,6 @@ I am a student member of MMLab (MM for multimedia), and most of my work is also 
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) PDBL (Oral, Best Paper Runner-Up)
 
   [[机器之心]](https://mp.weixin.qq.com/s/bupEHVZetu0IUiJmmQjr6g)
-
-  🎉
-
-- [Seed1. 8 Model Card: Towards Generalized Real-World Agency] (GitHub 110+ stars) (LLM: 基础模型)
-
-  Bytedance, Seed.
-  
-  [[机器之心]](https://baijiahao.baidu.com/s?id=1851832195084056755&wfr=spider&for=pc)
-
-  🎉
-
-- [M4V: Multi-Modal Mamba for Text-to-Video Generation] (AIGC: 基础模型)
-
-  J Huang, G Zhang, Z Jie, S Jiao, Y Qian, L Chen, Y Wei, L Ma
 
   🎉
 
